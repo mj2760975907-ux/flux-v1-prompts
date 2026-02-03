@@ -27,447 +27,11 @@ No limitations found.
 --- ## 🎨 Curated Prompt Collection Explore our carefully selected collection of
 high-quality prompts, complete with visual examples and detailed instructions.
 
-### neonpunk style (color theme gold and blue
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/d203a06a341fc1fcab346b5530553450.jpeg" width="400" alt="neonpunk style (color theme gold and blue" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-neonpunk style (color theme gold and blue,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A distant establishing shot showing the subject tiny against a massive environment, emphasizing isolation and scale.:1.3) 
-Build a scene focusing on 
-A dream pollen battlefield with oneironaut trenches dug in sleep, war of dreams, psychological horror featuring A quantum fern garden encoding maps of the multiverse, fractal patterns, impossible botany . 
-Burning and smoldering with embers and ash, recently destroyed, smoke rising, destruction aftermath environment .
-The environment is captured during Dusk simulated by AI nostalgia, recreating skies from extinct eras, vintage film grain, sepia tone. 
-. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional, Cyberpunk art style, futuristic cityscapes, neon-lit streets, high-tech and low-life, cybernetic enhancements, dystopian and gritty atmosphere
-```
-</details>
-
-### (color theme green and gold
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/62b2735104ae52677c668ae221bd87f2.jpeg" width="400" alt="(color theme green and gold" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme green and gold,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(An atmospheric depth shot with multiple layers of foreground, middle ground, and background separated by fog, 3D effect.:1.3) 
-Build a scene focusing on "A potrait of a man with big and cute eyes, fine-face, realistic shaded perfect face, fine details. Night setting. Very anime style. Realistic shaded lighting poster by Ilya Kuvshinov katsuhiro, magali villeneuve, artgerm, Jeremy Lipkin and Michael Garmash, Rob Rey and Kentarõ Miura style, trending on art station"
-A majestic view of A magnetic ocean with metal debris floating in patterns, scientific visualization, dark and spiky
-. 
-Corroded by acid and rust, metallic decay, orange and brown patina, leaking industrial fluids environment .
-The environment is captured during Dawn at a singularity nursery birthing baby black holes, cosmic creation, intense energy. 
-The weather is White nanobot snow piling up and assembling into complex fractal architecture, microscopic detail, sci-fi winter. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### neonpunk style (color theme white
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/f01080b7db3970abc79d0aa67d30de0b.jpeg" width="400" alt="neonpunk style (color theme white" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-neonpunk style (color theme white,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A chaotic composition with cluttered details filling the frame, horror vacui style, overwhelming visual complexity.:1.3) 
-Build a scene focusing on "evil male sorcerer, library background, the room filled with colorful magic, red robe, epic, white skin, young, sharp, brown hair, beard, concept art, digital art, dynamic lighting, unreal engine, octane, frank frazetta styled"
-A dragon-scale ocean with waves resembling serpent backs, mythological fantasy, texture focus featuring island-based A lightning-forged observatory tracking quantum weather, mountain top, tesla coils . 
-The scene depicts a Crystallized and frozen in time, covered in jagged quartz formations and frost, sparkling and cold world
-.
-The environment is captured during High noon with holograms casting digital pixelated shadows, sharp sun, retro-future. 
-. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional, Cyberpunk art style, futuristic cityscapes, neon-lit streets, high-tech and low-life, cybernetic enhancements, dystopian and gritty atmosphere
-```
-</details>
-
-### (color theme pink and white :1.5)
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/9c465ffc8ccb39e6bf52e4d54555c1d1.jpeg" width="400" alt="(color theme pink and white :1.5)" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme pink and white :1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A chaotic composition with cluttered details filling the frame, horror vacui style, overwhelming visual complexity.:1.3) 
-Build a scene focusing on 
-dynamic front angle of A macro view of tiny moss-knights riding beetles, battling in a canyon made of tree bark, miniature world exploring A peaceful zen ocean with ink-wash style waves, sumi-e aesthetic, minimalistic and calm . 
-The scene depicts a Fused with molten glass and obsidian from intense heat, smooth shiny surfaces, volcanic aftermath world
-.
-The environment is captured during Shimmering summer heat waves creating mirages of holographic cities on the horizon, visual distortion, hot desert atmosphere. 
-The weather is Hailstones shaped like glowing data blocks (blockchain hail) hitting sky contracts, visual metaphor, 3d render style. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### surrealist art (color theme green and gold
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a04a599b0a16fa5f66d4b78c00cfa553.jpeg" width="400" alt="surrealist art (color theme green and gold" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-surrealist art (color theme green and gold,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A silhouette composition against a bright background, focusing on outlines and shapes rather than details, high contrast.:1.3) 
-Build a scene focusing on "photo of a woman alone in space in the style of stefan kostic, realistic, body shot, sharp focus, 8 k high definition, insanely detailed, intricate, elegant, art by stanley lau and artgerm, floating embers"
-Underground Dwarven forge-caverns powered by intricate mithril pipelines glowing with molten heat, heat haze effect, volumetric lighting featuring A cinematic landscape of a quantum obelisk field decoding entangled timelines visible as shimmering threads, sci-fi mystery, majestic scale . 
-The scene depicts a Corroded by acid and rust, metallic decay, orange and brown patina, leaking industrial fluids world
-.
-The environment is captured during Winter icicle daggers guarding the entrance to imposing data fortresses, dangerous beauty, cold tones. 
-The sky is filled with Cirrus fibratus duplicatus creating layers of temporal echoes, visual stutter effect, glitch art. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest . dreamlike, mysterious, provocative, symbolic, intricate, detailed
-```
-</details>
-
-### (color theme gold and blue
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/f194ae436916394072b62f3bccfae3d3.jpeg" width="400" alt="(color theme gold and blue" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme gold and blue,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A distant establishing shot showing the subject tiny against a massive environment, emphasizing isolation and scale.:1.3) 
-Build a scene focusing on "concept art of a blackhole made of daggers, dagger blackhole, 8 k resolution - 5"
-A living tattoo oasis with calligraphy palm trees swaying, surreal illustration, ink wash style featuring An AI coral reef processing tides of exabytes, underwater data, glowing nodes . 
-Restored with crude patchwork repairs and scaffolding, post-apocalyptic reconstruction, junkyard aesthetic environment .
-The environment is captured during Twilight with nanotech particles creating self-dyeing skies, changing colors, vibrant clouds. 
-The sky is filled with Cirrus uncinus homogenitus formed from coolant from quantum computers, tech vapor, blue mist. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### Create a breathtaking image of 1woman alone on a s
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/baa485412c6a479be11043d07c1b1961.jpeg" width="400" alt="Create a breathtaking image of 1woman alone on a s" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Create a breathtaking image of 1woman alone on a safari tour in a jungle, big plants,  narrow thicket, sits on the river edge , River along the jungle,paradise birds perfect composition, haze, low angle,shadow plants, masterpiece, best quality, realistic, fantastic, splash art, hyperdetailed, maximalist style, photorealistic, concept art, sharp focus, harmony,mysterious glow, ambient occlusion, halation, cozy ambient lighting,dynamic lighting, a masterpiece, award winning,a masterpiece, award winning, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc,, anime, cyberpunk
-```
-</details>
-
-### (color theme red:1.5)
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/b55851b13d2a2e5147f81f4708b04b47.jpeg" width="400" alt="(color theme red:1.5)" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme red:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A dynamic dutch angle composition slightly tilted to create tension and unease, diagonal lines, action-oriented.:1.3) 
-Build a scene focusing on 
-facing the viewer of A surreal seascape with void sailors steering ships made of solid light, navigating waves made of magnetic black sand, cosmic horror style exploring A psionic rainforest with telepathic predator/prey dynamics visualized, alien jungle, mind waves . 
-Heavily eroded by wind and sand, smoothed edges, dusty and buried in dunes, ancient weathering environment .
-The environment is captured during Midnight nanotech repair swarms fixing urban decay, glowing sparks, restoration process. 
-. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### (color theme gold and blue
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/278104bfaaaafd1d3caf828b7c488d0c.jpeg" width="400" alt="(color theme gold and blue" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme gold and blue,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A chaotic composition with cluttered details filling the frame, horror vacui style, overwhelming visual complexity.:1.3) 
-Build a scene focusing on 
-A necrotic observatory looking into the void with bone telescopes made of vertebrae, dark astronomy, gothic featuring Coral-concrete hybrid ruins resulting from aquatic apocalypses, reclaimed by sea, wet textures . 
-Covered in alien biological growth and slime, pulsating organic textures, infestation aesthetic environment .
-The environment is captured during Winter black ice generating frictionless data highways, sleek dark surfaces, reflections. 
-The sky is filled with Stratocumulus cumulomutatus evolving into random number generator weather art, psychological horror, abstract shapes. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### The image is a digital illustration of a person&#x27;s 
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/23eb80c538d8e44fef9c16882ffb397d.jpeg" width="400" alt="The image is a digital illustration of a person&#x27;s " />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-The image is a digital illustration of a person's head and upper body. The person is wearing a black helmet with two horns protruding from the top. The helmet is made up of multiple layers of black and white geometric shapes, creating a futuristic and futuristic look. The background is a solid red color, with a white diagonal line running horizontally across it. The lines are arranged in a way that creates a sense of depth and dimension. The overall mood of the image is dark and ominous. <lora:YFG-FutureIsDark-Flux2-Dev-v1.2_000000750:0.75>
-```
-</details>
-
-### In a glass box floating above a luminous event hor
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/dcc2b5ab5ef4dee697148712d32e8d66.jpeg" width="400" alt="In a glass box floating above a luminous event hor" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-In a glass box floating above a luminous event horizon, a winged Schrödinger's Cat flutters gently in and out of visibility. One wing emits radiant sunbeams; the other absorbs starlight like a black hole. The cube hums with uncertainty, flickering between parallel truths. Glowing equations orbit its form, casting logic-shaped shadows on the clouds below. Suspended beneath the box, a golden sign swings softly, etched with two words in flickering neon script:
-"Schrödinger’s Cat."
-Beneath it, in smaller illuminated text:
-"Flight Status: Unobserved."
-```
-</details>
-
-### neonpunk style (color theme black
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/92c24f1caa7ec8a249674c3315cfb613.jpeg" width="400" alt="neonpunk style (color theme black" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-neonpunk style (color theme black,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A low-angle worm's eye view emphasizing the massive scale of the structures towering above, dramatic verticality.:1.3) 
-Build a scene focusing on "Boris Johnson as Neo from Matrix, Boris Johnson hairstyle, full body realistic portrait, highly detailed, muscular body, digital painting, artstation, concept art, smooth, sharp focus, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha"
-facing the viewer of A landscape with quantum shepherds whistling, guiding sheep grazing in parallel dimensions, visual duplication effects exploring A dragonbone canyon where the landscape is formed of fossilized giant rib arches spanning the gorge, prehistoric fantasy, epic scale . 
-The scene depicts a Burning and smoldering with embers and ash, recently destroyed, smoke rising, destruction aftermath world
-.
-The environment is captured during Winter cosmic ray mutations affecting permafrost AI, visual glitches in ice, aurora borealis colors. 
-The sky is filled with Cirrus fibratus intortus weaving sky ledgers of digital blocks, blockchain visualization, geometric clouds. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:RM_Anime_Cyberpunk_v0.5M:0.7> anime, cyberpunk,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional, Cyberpunk art style, futuristic cityscapes, neon-lit streets, high-tech and low-life, cybernetic enhancements, dystopian and gritty atmosphere
-```
-</details>
-
-### &lt;lora:gc_vintage:1&gt; vintage &lt;lora:Fancha_style_v.5
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/e66924f0f2b9b8f31ebf0e08d27acf73.jpeg" width="400" alt="&lt;lora:gc_vintage:1&gt; vintage &lt;lora:Fancha_style_v.5" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-<lora:gc_vintage:1> vintage <lora:Fancha_style_v.5:1> Fancha style <lora:Anime v1.3:1>  <lora:secret_grotesque_fantasy_flux1_v0.1_copy:1> secret_grotesque_fantasy
-```
-</details>
-
-### &lt;lora:MW_Poetic_part1_flux:1&gt; in the sea
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a1fea92a4ebd22d90b8781a1f303ac02.jpeg" width="400" alt="&lt;lora:MW_Poetic_part1_flux:1&gt; in the sea" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-<lora:MW_Poetic_part1_flux:1> in the sea, vegetation, castle, floating ruins, fortified medieval town, forest, cave, fortified chrch, half underwater structures, white flowers, blue sky, cloudscape, bridge, floating island over clouds, from above,
-```
-</details>
-
-### &lt;lora:CPA:0.5&gt; &lt;lora:FLUX-daubrez-DB4RZ-v2:0.3&gt; &lt;l
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/790efb9fb9b29961873ef196c4d902a6.jpeg" width="400" alt="&lt;lora:CPA:0.5&gt; &lt;lora:FLUX-daubrez-DB4RZ-v2:0.3&gt; &lt;l" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-<lora:CPA:0.5> <lora:FLUX-daubrez-DB4RZ-v2:0.3> <lora:ck-shadow-circuit:0.35> in the style of cksc, <lora:ìë¬µí_No2:0.3> <lora:It's a LoRA for portraits, BUT! actually specialized in backgrounds. v1.0:0.15> <lora:Dark_and_sentimental:0.8> <lora:dreadmirth-style-art:0.5> dreadmirthart
-```
-</details>
-
-### (color theme blue
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a35a8cf3676790c5b0e60999cda324e5.jpeg" width="400" alt="(color theme blue" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme blue,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A minimalist composition with vast negative space, focusing on emptiness and isolation, zen aesthetic.:1.3) 
-Build a scene focusing on 
-Necromantic spa ruins with soulspring hot tubs bubbling with spirits, decayed luxury, eerie relaxation featuring A liquid crystal palace mimicking the collective mood, shifting colors, opalescent textures . 
-The scene depicts a Fused with molten glass and obsidian from intense heat, smooth shiny surfaces, volcanic aftermath world
-.
-The environment is captured during Midsummer solstice celebration with massive bonfires burning in the snowy Arctic circle, warm fire glow against blue twilight, cultural tradition. 
-. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### (color theme black and red
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/35e459cbd2b1a5196be5102e9430ab4f.jpeg" width="400" alt="(color theme black and red" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme black and red,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A symmetrical central composition focusing on perfect balance and geometry, Wes Anderson style alignment.:1.3) 
-Build a scene focusing on 
-A rust-ocean corroding the shore, with oxidized metal waves, decay aesthetic, orange and brown featuring floating Timequake fissures displaying temporal sediment, geological cross-section of time, history layers . 
-The scene depicts a Restored with crude patchwork repairs and scaffolding, post-apocalyptic reconstruction, junkyard aesthetic world
-.
-The environment is captured during Winter blizzard burying arctic seed vaults in deep snow, whiteout conditions, isolation. 
-The sky is filled with Small Cumulus humilis clouds dotting the landscape of terraformed Mars canyons, alien planet surface, red and orange hues. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
 ### A vast city of the distant future. Gloomy and beau
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/1f9718135f1945548d1958b146483467.jpeg" width="400" alt="A vast city of the distant future. Gloomy and beau" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1f9718135f1945548d1958b146483467.jpeg" width="400" alt="A vast city of the distant future. Gloomy and beau" />
 
 <details>
 <summary>View Prompt</summary>
@@ -483,7 +47,7 @@ high res, high detailed, vivid color, sharp focus, sharp lines, anime color,
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/6aa5736230653f5e9239a99b4e70f027.jpeg" width="400" alt="&lt;lora:gc_vintage:1&gt; vintage &lt;lora:Fancha_style_v.5" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/a79a77f9b909387907de8974a1506dd9.jpeg" width="400" alt="&lt;lora:gc_vintage:1&gt; vintage &lt;lora:Fancha_style_v.5" />
 
 <details>
 <summary>View Prompt</summary>
@@ -493,20 +57,163 @@ high res, high detailed, vivid color, sharp focus, sharp lines, anime color,
 ```
 </details>
 
-### Hololive_Koyorin
+### masterpiece
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/e96539a0a7fa95b1c88a68ceb1b8e2c7.jpeg" width="400" alt="Hololive_Koyorin" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/403774b20bc2f6846afc53013795b0e6.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-Hololive_Koyorin, long hair, animal ears, pink hair, purple eyes, antenna hair, ahoge, hexagon hair ornament, hair between eyes, tail, breasts, pink nails,
-white kimono, pink kimono, print kimono, sleeveless kimono, frilled kimono, pleated skirt, frilled skirt, pink skirt, long skirt, detached sleeves, wide sleeves, ribbon-trimmed sleeves, frilled sleeves, white socks, kneehighs, black footwear, zouri, obi, sash, waist bow, pink bow, hair bow, ribbon trim, flower, floral print, kanzashi,
-full body, low angle, dynamic angle, crouching pose, looking at viewer, eye contact, playful expression, blowing bubbles, bubble wand, soap bubbles, iridescent bubbles, huge bubble foreground, bubble lens effect, character visible through bubble, depth of field, foreground emphasis, motion feeling,
-oil-paper umbrella, red umbrella, umbrella handle, urban street, city alley, pavement, soft sunlight, rim light, pastel color palette, vibrant colors, anime style, high detail, ultra clean lineart, soft shading, glossy highlights, cinematic lighting, dynamic composition, anime screencap, anime coloring
+masterpiece, high quality, Oil Painting, Hyper-realistic, close-up of a pale, elegant tween girl vampire wrapped in layers of warm, cozy blankets, sitting upright and gazing directly at the viewer. Her face is a pale, almost translucent white, with lips painted a vivid red. The lips are slightly parted, revealing sharp, gleaming white fangs. Her enchanting blue eyes glow faintly with an otherworldly intensity, a mix of hunger and melancholy. The blankets are plush and textured, contrasting the vampireâs sharp features and cold aura with domestic warmth. Her long red hair cascades around her face. Well lite in room, while faint moonlight filters through a frosted window. The atmosphere blends gothic and intimate tones, evoking both comfort and unease. brush strokes, warm light, magic, extremely coherent, cute, beautiful, cinematic, stunning, creative, positive, cheerful, unique, cool, inspiring, pure, rational, very inspirational, friendly, thought, glowing, magical, perfect, intricate, wonderful, lovely, del1cate_balance style, in the style of Rembrandt. vantablack <lora:style_of_Rembrandt_FLUX_135:.8> <lora:- Flux1 - vanta_black_V2.0:.8>  <lora:Delicate_Balance:.3> <lora:neeeg_f1:-1> <lora:FluxF4ngs:.8>
+```
+</details>
+
+### Create a photorealistic image of a breathaking bea
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b861c5606a6d848a75fb018110f0a06c.jpeg" width="400" alt="Create a photorealistic image of a breathaking bea" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Create a photorealistic image of a breathaking beautifu Thailand Island, surrounded by 2traditional colorful longtailboats decorated with flower garlands and colorful flags, crystall clear turquoise water, vibrant colors, bright colors,highly detailed, aesthetic, great lighting, extremely detailed,  perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style,  concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality,  best quality, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk, a masterpiece, award winning, view from above
+```
+</details>
+
+### A road descending a hill in a small Caribbean town
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/0ba88e577b9f909a1b011a2c60ce8a1e.jpeg" width="400" alt="A road descending a hill in a small Caribbean town" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A road descending a hill in a small Caribbean town on the shores of the Caribbean Sea. A turquoise sea, blue sky, and large white clouds are visible.. View from the river surface, night, view from side, dynamic angle,  
+high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
+<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35>
+```
+</details>
+
+### Minimalist painting by Albert Lynch
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1a1295bd28c20a0b28c0fd35f284154c.jpeg" width="400" alt="Minimalist painting by Albert Lynch" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Minimalist painting by Albert Lynch, Abbott Handerson Thayer, highly detail, best quality,  A solitary, battle-worn Japanese young teen female ronin with sharp focused eyes, and long black hair tied loosely behind her. She wears a faded dark kimono and a frayed traveling cloak. Her clothing is dirty and smoke-stained from countless battles. At her side hangs a chipped but katana with a blackened, wrapped hilt. Her feet are wrapped in worn tabi and straw sandals. Her stance is calm but coiled, the presence of a girl who has survived too much strides forward through a burning village, flaming rooftops collapsing around her, sparks flying across the frame, storm clouds boiling overhead, ultra detailed, childlike, romantic, Rembrandt lighting, brush strokes, warm light, magic, extremely coherent, cute, beautiful, cinematic, stunning, creative, positive, cheerful, unique, cool, inspiring, pure, rational, very inspirational, friendly, thought, glowing, magical, perfect, intricate, wonderful, lovely, del1cate_balance style, in the style of Rembrandt. vantablack <lora:style_of_Rembrandt_FLUX_135:.8> <lora:- Flux1 - vanta_black_V2.0:.8> <lora:Delicate_Balance:.3> <lora:neeeg_f1:-1>
+```
+</details>
+
+### A whimsical soft digital painting
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f41b1b27c4570ed2c67a6933b3b94149.jpeg" width="400" alt="A whimsical soft digital painting" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A whimsical soft digital painting, masterpiece, high quality, Oil Painting, a pale princess walking under an expansive night sky, the milky way galaxy visible in the sky, Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic, rich deep, novuschroma, del1cate_balance style, in the style of Rembrandt. FS, <lora:style_of_Rembrandt_FLUX_135:.8> <lora:Delicate_Balance:.3> <lora:neeeg_f1:-1> <lora:113_novuschromaFLX_1:.2> <lora:softwhim:1>
+```
+</details>
+
+### ethereal fantasy concept art of  old abandoned cas
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5ef694967d4420017af205ee827aa9df.jpeg" width="400" alt="ethereal fantasy concept art of  old abandoned cas" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+ethereal fantasy concept art of  old abandoned castle on high rock above wide river, old forest around, gray northern sky, low gray clouds, raining, no humans, 
+high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
+<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35> . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy
+```
+</details>
+
+### Create an Ink splash silhouette art on textured ri
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4493010279787c31c380bb220359cefb.jpeg" width="400" alt="Create an Ink splash silhouette art on textured ri" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Create an Ink splash silhouette art on textured rice paper, sepia and henna palette with selective red accent, a stunning Japanese woman in a flowing red dress stands on a busy Japanese shopping street, three quarter body view as she turns and looks directly at the viewer, her form rendered with bold brush strokes and splattered ink edges, expressive calligraphic linework and bleeding watercolor washes, abstracted crowd of shoppers in dark tones behind her, time lapse motion blur streaks through the crowd to suggest movement, street signs and storefront shapes hinted as minimal ink blocks, high contrast composition, soft paper absorbency, elegant negative space, dramatic yet refined mood, gallery quality illustration,, deep shadows and strong contrast, rich reds and warm amber highlights against a dark background, shallow depth of field, bokeh lantern lights, 50mm lens, crisp facial detail, glossy fabric texture, tranquil mysterious mood, high quality cinematic still, award winning, a masterpiece, anime, cyberpunk, DB4RZ, DB4RZ style painting
+```
+</details>
+
+### in the style of ck-mgs
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/56f048de9349de81b85b1ee54bc82382.jpeg" width="400" alt="in the style of ck-mgs" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+in the style of ck-mgs, nistyle, Special Ink-drawing mode, intricate linework with expressive contrasts, Mh1$AgThS2, A bold inkplash-meets-watercolor wash artwork, expertly painted on rice paper using rich sepia, burnt henna, and ink-black hues.   intricate linework with expressive contrasts, soft lighting with dynamic highlights, Japanese woman sitting in front of a tori gate at the top of a mountain, overlooking wooded hills, landscape, sunset. Impressionistic, ligne claire outlines for clarity and structure, award winning, a masterpiece
+```
+</details>
+
+### Create a realistic painting style with vibrant col
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/0c6206002d68764df2a9b689ca135a6b.jpeg" width="400" alt="Create a realistic painting style with vibrant col" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Create a realistic painting style with vibrant colors and intricate details. The famous egyptian pyramid group, situated on the banks of the Nil river, rises at night in a sweeping profile view, its intricate architecture clearly reflected in the tranquil water. A peaceful landscape with the pyramids surrounded by serene waterways. A boat drifts gently in the foreground. Several people sit quietly in the boat, illuminated by warm candlelight. Soft reflections of the boat and figures shimmer on the water's surface. A serene and contemplative mood evokes evening celebrations. A starry night sky with light clouds. Warm lantern light contrasts with the cool night blue. A tranquil atmosphere. A balanced composition with the pyramids at its center. Detailed textures, painterly brushstrokes, calm, cinematic lighting, a sense of stillness and spiritual serenity. award winning, a masterpiece,  CAICO,
+```
+</details>
+
+### h49s1r0
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f9063e9cee2b2e2f0bd9a5385729eea5.jpeg" width="400" alt="h49s1r0" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+h49s1r0, high detail, intense focus, very awa, masterpiece, best quality, newest, absurdres, highres, focus, depth of field, dynamic angle, cinematic lighting, volumetric lighting, 1girl, solo, long hair, looking at viewer, bangs, hair ornament, holding, hair between eyes, jewelry, white hair, earrings, japanese clothes, sword, flower wreath, kimono, holding katana, floral print, close-up, reflection, glint, multicolored eyes, gold flower, eye focus, colorful, shiny, abstract background, dutch angle, cowboy shot, sunlight, shaded face,  <lora:Ha9siro:1>
+detailed background high quality detailed, ((very aesthetic)), 8K, 16K, detailed, high quality, best quality, beautiful, detailed eyes, perfect anatomy,
+usnr, masterpiece, ultra-HD, cinematic lighting, photorealistic, high detail, depth of field, (blurred background), (dramatic lighting), masterpiece, best quality, very aesthetic, 8k, anime, detailed background,
+```
+</details>
+
+### psychedelic and surrealism style world
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4c7034f7c3b057d5d455b96db83c16ed.jpeg" width="400" alt="psychedelic and surrealism style world" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+psychedelic and surrealism style world, huge rainbow background, red and green style, sharp geometric edges, (subject: extreme closeup of a creature made of cybernetic etherial space matter animation movie style, aestheticly pleasing kitten):1.1, (hanggliding), endearing smile, clumsy diving at viewer, huge funny, glasses and silly hat (wings with gigantic wingspan and matrix patterns and dynamic action and whimsical), (scene: creature soaring over a (whimsical castle with a valley in the background), from above, trees, butterflies, mushrooms and balloons.screen space reflections, high quality render, ultra resolution, intricate details):1.2,
 ```
 </details>
 
@@ -514,13 +221,157 @@ oil-paper umbrella, red umbrella, umbrella handle, urban street, city alley, pav
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/955c7f086e2698d370a3c6bf465edc61.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6faadcc0f10f27192c4af81e76b1a0d3.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest,  <lora:AliceMRILf:1> alic2, green eyes, black hair, medium hair, striped shirt, skirt, shoes, looking at viewer, light blue background, simple background, from above,
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+(close-up:1.5), black dress, ornate dress, sleeveless, pose, gesture, spirit cats, claws, long nails, black nails, gold accents, floating objects, surreal, fantasy, glowing cats, ethereal cats, floating cats, starry background, colorful, cat on foreground
+```
+</details>
+
+### refined stylized anime realism
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/290d1fbbf7736b2b5e21d20fc7cefd5b.jpeg" width="400" alt="refined stylized anime realism" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+refined stylized anime realism, (edge polished anime realism), (micro-detailed anime rendering), rich-palette anime rendering, fine contact shadow layering, micro occlusion detailing, subtle shading falloff, light-adaptive shadow diffusion, UHD quality detail, UHD skin details, balanced ambient lighting, photorealistic bounce lighting, soft gradient lighting, delicate surface reflection mapping, realistic subsurface light bounce, directional specular diffusion, (masterpiece, highly detailed, absurdres), well-rendered, polished details, refined textures, rich color depth, dynamic composition, dynamic angle, cowboy shot, uhd skin details, subsurface scattering, refined skin texture, masterpiece, best quality, 1girl, Galaxia, holding umbrella, black top hat, black coat, caplet, standing, dutch angle, dark environment, gothic city, high contrast
+```
+</details>
+
+### refined stylized anime realism
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/daf5fc2f5994a41d55eaf0de927421f7.jpeg" width="400" alt="refined stylized anime realism" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+refined stylized anime realism, (edge polished anime realism), (micro-detailed anime rendering), rich-palette anime rendering, fine contact shadow layering, micro occlusion detailing, subtle shading falloff, light-adaptive shadow diffusion, UHD quality detail, UHD skin details, balanced ambient lighting, photorealistic bounce lighting, soft gradient lighting, delicate surface reflection mapping, realistic subsurface light bounce, directional specular diffusion, (masterpiece, highly detailed, absurdres), well-rendered, polished details, refined textures, rich color depth, dynamic composition, dynamic angle, cowboy shot, uhd skin details, subsurface scattering, refined skin texture, 1girl, Galaxia, silver eyes, chestplate, pauldron, capelet, waist skirt, faulds, thigh armor, boots, holding a halberd, ((dragon riding, red dragon, on dragon's back, on dragon's neck)), flying dragon, ((giant dragon with strong forelegs)), ((from below))
+```
+</details>
+
+### let&#x27;s use the last supper as the reference for a f
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/df25d040b4194c32db8231b3a4f28863.jpeg" width="400" alt="let&#x27;s use the last supper as the reference for a f" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+let's use the last supper as the reference for a funny high-detail masterpiece comic image, instead of the apostole the character in the images are a colorful bunch of fellow, in the center (where originally JC is) we have a man with long brown unkept hair and unshaven beard, focused on trying to draw on a piece of paper, his sketch resemble a sticky figure with comically large circles as breasts, the other characters to its side are in the second picture attached: an anthropomorphic tiger in an elegant black suit and tie with stylish eyeglassess, a penguin wearing a colorful and unbuttoned hawaian shirt with aviator sunglassess, a jawa with the hoodie covering its face so that only the yellow glowing eyes are visible, an axolotl, a man wearing an orange samurai armor with an orange rod traffic cone as helmet, a female bunny wearing a catsuit and purple eyewear, an anthropomorphic frog in a suit, a girl with blue skin and red headset, a man muscular man with purple tomhawk hair and purple beard, a goth girl with fair skin, white and black hair, wearing a beanie, an anthropomorphic owl carrying a doll plushie
+```
+</details>
+
+### Cyberspace
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/5906327444c14ae506586802b02df2e6.jpeg" width="400" alt="Cyberspace" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Cyberspace, Digital Cyberspace theme, glowing magical energy in PsychadelicChaos, highres,8K,HDR,absurdres, , helmet, , holding axe, gauntlets, armored, red theme, , red, black, volumetric lighting, light and shadow,psychadelic, red riding hood  running through a cyber maze Of trees 
+
+
+
+```
+</details>
+
+### score_9
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/fa8456378558d6c66464aaf3527a99b8.jpeg" width="400" alt="score_9" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+score_9, score_8_up, score_7_up, Unfazed dragon, red dragon, , , yellow eyes, teeth, wings up, tail, horns, , couds, 
+BREAK 
+score_9, score_8_up, score_7_up, red dragon
+Unfazed dragon,
+```
+</details>
+
+### Extreme low angle from ground level looking up
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/235545f3d9d5bb6028161595377481b5.jpeg" width="400" alt="Extreme low angle from ground level looking up" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Extreme low angle from ground level looking up, a woman in a sunflower yellow raincoat and red rain boots leaps over a massive puddle, captured mid-jump. The camera is positioned to show the puddle's reflection, which instead of showing her jumping figure, shows her standing calmly with an umbrella in a completely different scene—a sunny day. Her actual jumping form is silhouetted against dramatic storm clouds above, hair and coat whipping in the wind. Rain falls around her in visible streaks. Surrounding the puddle, wet cobblestones glisten, and fallen autumn leaves float on water. The perspective makes her appear giant against the stormy sky, powerful and free.
+Vibe: Defying both gravity and reality, living multiple moments simultaneously
+```
+</details>
+
+### A woman composed of blown glass and contained fire
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/46e7de05c0288c89ba1690813e5383ab.jpeg" width="400" alt="A woman composed of blown glass and contained fire" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A woman composed of blown glass and contained fireflies drifts in a slow boat on a pitch-black river. The boat is a dried, curled leaf. The fireflies' erratic, green-yellow pulses illuminate the delicate, transparent architecture of her limbs from within, causing complex refractions to sparkle on the inky water's surface. Their light catches on the dewdrops clinging to her glass shoulders, each one acting as a lens that magnifies the tiny, frantic stars trapped inside her. <lora:Zit_DIORAMA:0.8>
+```
+</details>
+
+### (kermagathill:0.35)
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/67e9c33aeb644550aecaa39f4ec537cf.jpeg" width="400" alt="(kermagathill:0.35)" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+(kermagathill:0.35), (hspunchill, shadmanill:0.5), (reiqill:0.7),
+1girl, magical girl, tsurime, rainbow eyes, blonde hair, twintails, pastel rainbow hair, multicolored hair, gradient hair, masterpiece, best quality, absurdres, very aesthetic, medium breasts, angel wings, oversized wings, (fake wings, energy wings),
+(pastel colors, pastel blue, pastel orange, pastel green, pastel purple), pastel rainbow magical girl, padded magical girl dress, kawaii, frilled skirt, thighhighs, padded pastel rainbow dress, multilayered dress, detached collar, petticoat, padded dress, puffy short sleeves, elbow gloves, rainbow tiara, gem brooch, large bow, ribbons, lace trim, frills, satin, sparkles, glitter, heart earrings, rainbow accessories, jewelry, bobby socks, frilled mary janes,
+lipgloss, eyelashes, blush, light makeup,  
+outdoors, landscape, scenery, mountain, (high up), nature, clouds, sunset, (backlighting), light particles, particles,
+solo, full body, flying, floating, midair, smile, (magic crossbow:1.2), holding crossbow
+```
+</details>
+
+### 3d
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/621b9fc73afec34019933971bb90bbba.jpeg" width="400" alt="3d" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+3d, Cyberspace, Digital Cyberspace theme, ((created by glowing magical energy in cyberspace)), lazypos, Big red male vetsion od red riding hood psychedelicdream , psychedelic dream  
+
+
+
 ```
 </details>
 
@@ -528,53 +379,49 @@ masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest,  
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/be1bb232198b7b97465b5bc60afd45f2.jpeg" width="400" alt="(ultra realistic" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ba9b28b2f44cfdfd7b92abf1f75f51ae.jpeg" width="400" alt="(ultra realistic" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
 (ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, tight long sleeve shirt, two tone shirt, sleeves rolled up to elbows, forearm tattoo, midriff, mini shorts, fishnets, choker, rings, backpack, backpack straps,
-Dark eyes, looking at viewer, piercings, facial piercings, mommy,
-Seductive, 
-Pokemon, pokemon trainer, pokeballs on belt, holding a poke ball, sitting on tree stump, 
-Pikachu on shoulder, Pikachu on girls shoulder,
-charmander on shoulder, charmander on girls shoulder, 
+1girl, large breasts, red hair, Jessie, Jessie from Pokémon, team rocket,
+Dark eyes, looking at viewer, piercings, facial piercings,
+Seductive, smirk, flirty, blush, horny expression, moan, 
+Pokemon, pokemon trainer, pokeballs on belt, large pokeballs, holding a poke ball, sitting on tree stump, 
 Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up, from above, view from above,
+Outside, woods, trail, trees, bushes,
 ```
 </details>
 
-### anime screencap
+### A road descending a hill in a small Caribbean town
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/e4bd0b0c0f4d6766d4386bda61d14b53.jpeg" width="400" alt="anime screencap" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/0ba88e577b9f909a1b011a2c60ce8a1e.jpeg" width="400" alt="A road descending a hill in a small Caribbean town" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-anime screencap, anime screenshot, anime coloring, masterpiece, best quality,
-<lora:Yor_ForgerYor_Briar_Spy_x_Family_-_V2_Season_3:1>
-1girl, solo, black hair, red eyes, sidelocks, gold earrings,
-R3DSW3473RDR355, refrigerator, black pantyhose, kitchen, looking back, white hairband, red sweater, back cutout, from behind, looking back, :O, cowboy shot,
+A road descending a hill in a small Caribbean town on the shores of the Caribbean Sea. A turquoise sea, blue sky, and large white clouds are visible.. View from the river surface, night, view from side, dynamic angle,  
+high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
+<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35>
 ```
 </details>
 
-### A risk game
+### detailed
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/084c8e84b476c057afccec43cab6723b.jpeg" width="400" alt="A risk game" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f8e5225b3e2282b02119f1a016e959c6.jpeg" width="400" alt="detailed" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A risk game, but it's axolotls vs. anthropomorphic tigers in suits vs. Jawas 
+detailed, ice cube, scenery, letterboxed, cloud, cloudy sky, building, cityscape, air bubble, city lights, skyscraper, outdoors, sunset, water drop, skyline, evening, twilight, dutch angle, horizon, glass, star (sky), gradient sky, wine glass
 ```
 </details>
 
@@ -582,7 +429,7 @@ A risk game, but it's axolotls vs. anthropomorphic tigers in suits vs. Jawas
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/8a202558743da2028b4e0b35f3d71979.jpeg" width="400" alt="fantastical" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/8a202558743da2028b4e0b35f3d71979.jpeg" width="400" alt="fantastical" />
 
 <details>
 <summary>View Prompt</summary>
@@ -592,54 +439,11 @@ fantastical
 ```
 </details>
 
-### 1girl
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/d946c72f55773efbcca9fcff838f3837.jpeg" width="400" alt="1girl" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-1girl, dark skin, solo, dark-skinned female, glasses, white hair, long hair, white eyes, very dark skin, jacket, shirt, moon, leather jacket, leather, white shirt, upper body, glowing eyes, breasts, lips, glowing, looking at viewer, black jacket, full moon, nose, black-framed eyewear, off shoulder, medium breasts, , 
- masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
-```
-</details>
-
 ### masterpiece
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/ad0d569b2c821738a12a9d9d886a6623.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, newest, best quality, amazing quality, high quality, highres, cinematic lighting, absurdres, 8k, detailed, highest definition, high resolution, scenery, source_anime, absurd_res, halftone, digital media \(artwork\),  solo, monster, trees, silhouette, nature being, chibi, plantling, casting magic, tiny plant, gradient eyes, glossy highlights, no lineart, faceless,  plant body, glowing aura, radiant silhouette, blank white eyes, solid eyes, no mouth, chibi, smooth, faceless design, giant leaf on head, standing on branch, from above, nature colors (green theme, blue theme), glowing eyes, (no mouth), (no facial features), big hands, holding giant leaf, (green glossy skin:1.3), from side, (glow, aura) markings, (glowing limbs), high contrast, luminescent skin, sprout on head, walking, very long hair, white hair, pointy ears, solid eyes, wavy hair, curly hair, gradient horns, glowing horns, shortstack, (tree tops background:1.4) (deep forest background:1.3), (kotteri, masha, himukai yuuji:1.2), <lora:JFTMVR:0.5><lora:Nezumi_Style_Lora_Illustrious_V7-000013:0.7>
-```
-</details>
-
-### cute
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/55520ec844b0d0e0ed06320b69fa2201.jpeg" width="400" alt="cute" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-cute, alluring, dynamic dancing, dynamic dance, elegant dance, pink heels, slender legs, dancing elegantly, in awe, breathtaking, gorgeous, gaze, elegant beauty, ballroom evening, chandeliers, polished marble floor, low angle, dynamic pose, tilted angle, biting lips, looking away, leaning forward, flowing evening gown, silk fabric, elegant gloves, sparkling jewelry, soft golden lighting, graceful posture, dress slipping slightly at shoulder, modern_anime_render, high_detail, vivid_colors, soft_shading, dynamic_lighting, clean_lineart, atmospheric_depth, glossy_highlights, painterly_texture, Hololive_Koyorin, long hair, animal ears, pink hair, purple eyes, antenna hair, ahoge, hexagon hair ornament, hair between eyes, tail, breasts, pink nails, long hair, crossed bangs, petite, open eyes, beautiful eyes, detailed eyes, sharp look, alluring, seductive, gaze, pretty, breathtaking, cinematic lighting, dynamic shadows, depth of field, radiant glow, immersive.
-```
-</details>
-
-### masterpiece
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/1f567a73c50219b24019d5b76eea66be.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d81a322b5c1a74622386ad1cd19f5614.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
@@ -648,93 +452,7 @@ cute, alluring, dynamic dancing, dynamic dance, elegant dance, pink heels, slend
 masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
 Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
 1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
- night, star, wind, milkyway, sitting,flower,holding instrument, playing instrument, bow \(music\), (big cello:1.2), glowing crescent moon, reflections,
-```
-</details>
-
-### 1girl
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/8abcaf2c0ae4b09936c1c1ce05ab0053.jpeg" width="400" alt="1girl" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-1girl,beautiful face, perfect eyes, detailed eyes,mature female,
-dutch angle,portrait, 
-black hair, blunt bangs, long hair, (straight hair),hime cut, 
-red eyes,sideways glance, sarashi,hair flower, holding fox mask, covering face,
-collarbone, closed mouth,head tilt,spider lily, 
-two-tone kimono, 
-hand up,
-black background, 
-broken glass, 
-bokeh, indicate details, depth of field,lens flare, vibrant color,multicolored background,
-masterpiece,best quality,amazing quality,absurdres,highres, newest,
-<lora:0__11Xx:0.6>, 0__11Xx_illu,
-<lora:maorix IL 1.0:0.5>,
-<lora:mikage:0.3> ,mikage,
-<lora:cinematic feeling V5:0.5> ,cinematic feeling,
-<lora:rella:0.3> rellahuafeng
- <lora:Ha9siro__by_UTdT69:0.6> h49s1r0, reflection,
-```
-</details>
-
-### Woman dancing and smiling with shy smile
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/431102e417e8c10192c2380e94f83d36.mp4" width="400" alt="Woman dancing and smiling with shy smile" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Woman dancing and smiling with shy smile, then screen goes black to reveal she is now engaged in sexual act
-```
-</details>
-
-### (masterpiece
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/705432451f3fcd96f211bd7e4fd2c2c5.jpeg" width="400" alt="(masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(masterpiece, best quality, amazing quality, very aesthetic, high resolution, absurdres ultra-HD, 4K, realistic, newest:1), furry, no humans, (by snowskau:0.7), (by meesh:0.8), (by bebebebebe), (by kikurage:0.9) (by kame 3: 0.6), furry, no humans, female HuskHH, inside, fancy restaurant, over looking city, night, sitting at table, tablecloth, dutch angle, serene setting, detailed fur, kame 3, female, eyes wide, anthro, medium breasts, slender waist, slender, sexy poses, black leggings, suspender straps, short dress suit, long hair bangs, white bangs, white undershirt, shirt unbuttoned, cleavage, cat, feline, solo, viewer pov, resting head on hand, seductive eyes, leg crossed
-```
-</details>
-
-### &lt;lora:CPA:0.5&gt; &lt;lora:FLUX-daubrez-DB4RZ-v2:0.3&gt; &lt;l
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/790efb9fb9b29961873ef196c4d902a6.jpeg" width="400" alt="&lt;lora:CPA:0.5&gt; &lt;lora:FLUX-daubrez-DB4RZ-v2:0.3&gt; &lt;l" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-<lora:CPA:0.5> <lora:FLUX-daubrez-DB4RZ-v2:0.3> <lora:ck-shadow-circuit:0.35> in the style of cksc, <lora:ìë¬µí_No2:0.3> <lora:It's a LoRA for portraits, BUT! actually specialized in backgrounds. v1.0:0.15> <lora:Dark_and_sentimental:0.8> <lora:dreadmirth-style-art:0.5> dreadmirthart
-```
-</details>
-
-### make an image of a new DND race reference sheet na
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/589622d6a011bf3ab786d27723af59ef.jpeg" width="400" alt="make an image of a new DND race reference sheet na" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-make an image of a new DND race reference sheet named "Axoawaiger" that's a combination of tiger, axolotl and jawa. Include multiple angles, expressions, traits and abilities
+limited palette,film grain, colorful,negative space,surreal,blending, MODEST, shawl), chinese style, holding sword, holding katana, unsheathing, , katana, hands on sword, (Sexy lips), impressionism, style is detailed and epic, sense of scale that shows how huge the dragon is, absolutely massive scale, from behind, night sky, facing huge snow dragon, dragon is roaring, soundwaves shaking the surroundings, fog and dust fills the pic, HDR, skeletal dragon,mystical necrotic dragon, white dragon, eastern dragon,huge dragon
 ```
 </details>
 
@@ -742,59 +460,141 @@ make an image of a new DND race reference sheet named "Axoawaiger" that's a comb
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/f1df9842d8c110314a9fca12a33ad8b0.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f18aaecf82cf60dd3cde4cfb9c643265.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, best quality, very aesthetic, CivitAI BatouLaMenace,
-(artist:Incase:0.5), (artist:Tsuaii:0),
-(flat color:1), (no lineart:2),
-(semi-realistic:2),
-1 little deer, cute, light_particles, nature, mountain, depth of field, the best quality, solo, green theme,
+masterpiece, ultra-HD, photorealistic,impressionism (1.5), high detail, depth of field, (blurred background), best quality, (very aesthetic:1.2) , 8k, high detail, soft reflections, dramatic lighting, (score_9, score_8_up,:1.3 ), soft shading, warm atmosphere, (light particles:1.3), cinematic lighting, 1woman, (woman:1.2), greek woman, (goddess:1.4), athletic body, beautiful face, jet-black hair, long hair, huge ponytail, toned skin, voluminous curly hair, warm brown eyes, big eyes, detailed pupils, detailed shading, soft highlights, vibrant colors, skindentation, honorful expression, blushing cheeks, outdoors, cliff above hellenic ocean landscape,  trees, sea, sundown, ancient looking bronze plate and linen armor, leather straps, bronze bracelets, high-braced leather sandals,  intricate ceremonial armor, short bronze and red linen skirt (), (aesthetic pose, holding spartan spear and aegisshield) (looking away:1.2), BREAK, Hype4realistic, lazypos,
 ```
 </details>
 
-### masterpiece
+### Create an Ink splash silhouette art on textured ri
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/54e46b4f3f0a074bb83fccdfb66cfc53.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4493010279787c31c380bb220359cefb.jpeg" width="400" alt="Create an Ink splash silhouette art on textured ri" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, best quality, amazing quality,, cowboy shot, solo, looking at viewer, , <lora:dropout-machiko-s1-illustriousxl-lora-nochekaiser:1>, machiko, long hair, black hair, brown eyes, mature female, small breasts, anime screencap, skirt, shirt, bow, white shirt, pleated skirt, shoes, socks, bowtie, red bow, plaid, kneehighs, red skirt, plaid skirt, cardigan, black socks,, v, v over eyes,, megastructure, futuristic, building, complex,
+Create an Ink splash silhouette art on textured rice paper, sepia and henna palette with selective red accent, a stunning Japanese woman in a flowing red dress stands on a busy Japanese shopping street, three quarter body view as she turns and looks directly at the viewer, her form rendered with bold brush strokes and splattered ink edges, expressive calligraphic linework and bleeding watercolor washes, abstracted crowd of shoppers in dark tones behind her, time lapse motion blur streaks through the crowd to suggest movement, street signs and storefront shapes hinted as minimal ink blocks, high contrast composition, soft paper absorbency, elegant negative space, dramatic yet refined mood, gallery quality illustration,, deep shadows and strong contrast, rich reds and warm amber highlights against a dark background, shallow depth of field, bokeh lantern lights, 50mm lens, crisp facial detail, glossy fabric texture, tranquil mysterious mood, high quality cinematic still, award winning, a masterpiece, anime, cyberpunk, DB4RZ, DB4RZ style painting
 ```
 </details>
 
-### Create a breathtaking image of 1woman alone on a s
+### wrong serval... i found the limitations of banano
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/baa485412c6a479be11043d07c1b1961.jpeg" width="400" alt="Create a breathtaking image of 1woman alone on a s" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c6ce81b308887fd078d9ddfbed58c701.jpeg" width="400" alt="wrong serval... i found the limitations of banano" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-Create a breathtaking image of 1woman alone on a safari tour in a jungle, big plants,  narrow thicket, sits on the river edge , River along the jungle,paradise birds perfect composition, haze, low angle,shadow plants, masterpiece, best quality, realistic, fantastic, splash art, hyperdetailed, maximalist style, photorealistic, concept art, sharp focus, harmony,mysterious glow, ambient occlusion, halation, cozy ambient lighting,dynamic lighting, a masterpiece, award winning,a masterpiece, award winning, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc,, anime, cyberpunk
+wrong serval... i found the limitations of banano 
 ```
 </details>
 
-### (1girl
+### ((created by glowing magical energy in cyberspace)
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/fac9b71ebf15a3f6cde0576b9a8f3bf6.jpeg" width="400" alt="(1girl" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/4ed3ecb829f720708d60be8b0aa0d225.jpeg" width="400" alt="((created by glowing magical energy in cyberspace)" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(1girl, solo, long hair, looking at viewer, simple background, long sleeves, red eyes, hat, closed mouth, jewelry, sitting, jacket, full body, pantyhose, earrings, red hair, shoes, belt, hood, blunt bangs, black headwear, hoodie, bodysuit, witch hat, piercing, hood down, black background, ear piercing, sneakers, red footwear, red bodysuit, cropped hoodie, nike \(company\):0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
+((created by glowing magical energy in cyberspace)) Dark hair red riding hood in a dark forest a wolf made completely of sakura petals stands to her side, wind swirls the flowers, contrasting colors,psychedelic dream 
+```
+</details>
+
+### Высокое качество. Нормальные пропорции. Портрет. С
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/2a57038033e68da52e4aadf106b1341e.jpeg" width="400" alt="Высокое качество. Нормальные пропорции. Портрет. С" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Высокое качество. Нормальные пропорции. Портрет. Стиль комикса. Шрек в куртке с осенним камуфляжем идёт по осеннему берёзовому лесу. Мы видим Шрека со спины. На его спине висит автомат АК-74 с оружейным ремнем и походный рюкзак. В рюкзаке сидит чебурашка с лицом Александра Гельевича Дугина, мы видим только его голову, светлую кожу ушей, бурый мех и передние лапы, всё остальное спрятано в рюкзаке. Между ним и Шреком происходит диалог. Над головой Дугина-чебурашки два окна диалога, в одном написано "Демон... Луны... Шедбаршемот... Шертатана... заплатит... за... то... что... превратил... меня... в... это... А... куда... мы... идём?..", а в другом написано "Я... не... хочу... Гиперборею... Я... хочу... Евразию...". Над головой Шрека два окна диалога, он отвечает на первую фразу Дугина "Мы идём искать Гиперборею.", а во втором окне, на вторую фразу Дугина Шрек отвечает "Перехочешь.". День. Солнечно. Осенняя атмосфера. 
+```
+</details>
+
+### ((rouenwolf
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d0c56b4ee2ee9c332dd81938b333087b.jpeg" width="400" alt="((rouenwolf" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+((rouenwolf,1boy,solo,furry,furry male,face scar,muscular,wolf ears,muscular,,canine tail,muscular male,large pectorals,male focus,( whiskers, bara), male,,(( k0n0hanaya)),big chest,furry)),,4k,,cel shading ,,((bara , male focus, chest tuft, fluffy chest, big chest,)),(perfect face, perfect eyes)),Expressiveh,thick thigh,perfect face, perfect eyes) ,masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, 4k, absurdres, ray tracing, realistic, intricate details, newest, scenery, 1guy, furry, anthro, solo,body fur, fluffy fur, detailed fur, detailed hair, ragged face, detailed face, detailed eyes, green buttoned shirt, rimless glasses, black necktie, fixing tie, looking away, cowboy shot, detailed background, depth of field, volumetric lighting, indoors, office building
+```
+</details>
+
+### (ultra realistic
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/2789d08c34975c63f7acd5ed3b0e1801.jpeg" width="400" alt="(ultra realistic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
+1girl, large breasts, red hair, Jessie, Jessie from Pokémon, team rocket, 
+white crop top, crop top split from the bottom, reverse cleavage, long sleeve black undershirt, 
+midriff exposed, navel, 
+Dark eyes, looking at viewer, piercings, facial piercings,
+Seductive, smirk, flirty, blush, horny expression, moan, 
+Pokemon, pokemon trainer, pokeballs on belt, large pokeballs, holding a poke ball, sitting on tree stump, 
+Smirk,
+Outside, woods, trail, trees, bushes,
+```
+</details>
+
+### uv lighting
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7b9180b41cefbb2ddf7313a5f8692597.jpeg" width="400" alt="uv lighting" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+uv lighting, masterpiece, best quality, amazing quality, very aesthetic, absurdres, highres, newest, HDR, 8K, high detail, smooth shading, glossy surfaces, subtle, high contrast, dak depth, real background, hyper-realistic close-up, colorful depth, colorful lighting,
+sacred, mysterious, dreamlike, fantastic, moonlight, water, flowers, colorful flowers and colorful butterflies, flower effects, diagonal angle, from above, dutch angle, beautiful atmosphere, muted colors, cinematic composition, natural lighting, water color, cinematic composition, blurry foreground, blurry background, heavily textured impasto oil painting, Small patches of the purple underpainting are visible here and there in the painting.
+```
+</details>
+
+### On the first
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ef28cf621cf9c74cd625750762676777.jpeg" width="400" alt="On the first" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+On the first, second and third image you can see Hooh - large pet great horned owl. I wnat to make another picture with this owl. 
+
+A breathtaking, photorealistic wildlife photograph. The scene is inside a semi-modern train coupe from the 1980s-2000s, with brown faux-wood paneling and fabric bunk beds. In the center, on the small fold-down table between the bunks, stands the majestic Great Horned Owl, Hooh. Her posture is that of a silent happy awe, with wide open eyes.
+
+She is looking intently out the large window. Outside, a winter landscape of snow-covered pine forests and rugged mountain peaks blurs past at high speed, creating a beautiful motion blur effect. The key element is the lighting: it is early morning. The sun has just risen between two distant mountain peaks, partially veiled by thin, high clouds, casting the entire scene in a soft, diffuse, golden-pink light that fills the coupe without being harsh. Hooh's feathers are illuminated by this warm glow, contrasting with the cool blue tones of the fast-moving winter world outside. The mood is serene, contemplative, and deeply peaceful. Ultra-realistic details, shallow depth of field.
+
+Focus is on the Hooh standing on table, and her expression
+
 ```
 </details>
 
@@ -802,7 +602,7 @@ Create a breathtaking image of 1woman alone on a safari tour in a jungle, big pl
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/69712da57dfcc4984ab08a27be4569aa.jpeg" width="400" alt="Semi-realism" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/de6cbf901fc6c5f9f740a67fcbcbface.jpeg" width="400" alt="Semi-realism" />
 
 <details>
 <summary>View Prompt</summary>
@@ -810,264 +610,7 @@ Create a breathtaking image of 1woman alone on a safari tour in a jungle, big pl
 ```markdown
 Semi-realism, ma1ma1helmes_b_illu, 
 (1girl, solo, masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, 
-fern \(sousou no frieren\), depth of field, dynamic angle, cute, chibi, happy, jumping, midair, purple hair, long hair, floating hair, leaning forward, upper teeth only, top-down bottom-up, blush stickers, flying, spread arms, lighting particles, blue background,
-```
-</details>
-
-### (ultra realistic
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/0888b29769445076cba85a07cc468c33.jpeg" width="400" alt="(ultra realistic" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, LunaWF, tan skin, vault, vault guardian, ancient protector, ancient weapon, hip sling, weapon on sling, hand on weapon, white braided hair, asymmetrical hair, asymmetrical sleeves, one sleeve rolled up, bicep, looking at viewer, forearm tattoo, asymmetrical clothing, beautiful eyes, eyes open, detailed eyes, freckles, at night, night, moonlight, midnight, shadows, dark, darkness, one leg up, knee bent, leaning against knee, Leaning to the side, Cowboy shot, close up, pointing, point, Front view, view from the front, facing viewer, Tip of sword, sword extended, holding out sword, sword towards viewer, foreshortening, asymmetrical pose,
-```
-</details>
-
-### the wolf pastor in cloth sheep
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/563a0be39ec081aed17a691316839fe0.mp4" width="400" alt="the wolf pastor in cloth sheep" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-the wolf pastor in cloth sheep
-```
-</details>
-
-### HDR
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/7d0fb461707d21f8aa1d8a52aae6bf16.jpeg" width="400" alt="HDR" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-HDR, 8K, high contrast, masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, USNR, 7481llu
-solo, blush, simple background, white background, holding, closed mouth, sitting, brown eyes, tail, food, twitter username, cup, no humans, shadow, :3, fruit, animal, leaf, blush stickers, drinking straw, rabbit, drink, drinking, animal focus, orange \(fruit\), lemon, holding drink, lemon slice, orange slice, juice
-```
-</details>
-
-### Epic landscape
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/55ef312a209e04c08e061ee1ecd8d795.jpeg" width="400" alt="Epic landscape" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-Epic landscape, bright sky, majestic, fantasy land, black rocks, (dark sun light: 1.7), lake, dramatic lighting, digital art, soft yellows, warm reds, green landscape, epiCPhoto, world tree, endless forest, amazing world, ancient world, feeling of time, abyss
-```
-</details>
-
-### (ultra realistic
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/ae4d78bba3da79da784df8bfcad43e9d.jpeg" width="400" alt="(ultra realistic" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, tight long sleeve shirt, two tone shirt, sleeves rolled up to elbows, forearm tattoo, midriff, mini shorts, fishnets, choker, rings, backpack, backpack straps,
-Dark eyes, looking at viewer,  
-Pokemon, pokemon trainer, pokeballs on belt, holding a poke ball, sitting on tree stump, 
-Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up,
-```
-</details>
-
-### (high quality:1.4)
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/73e54fceec6b3abbd116bbdcd57f07ce.jpeg" width="400" alt="(high quality:1.4)" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(high quality:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy,1woman, beautiful woman, 20-year-old woman, 
-blond hair, long hair,  Loose wavy hair,, swept bangs, 
-, low ponytail,     various hairstyles, Detailed hair, , blue eyes, oval-faced, nostrils, slim, Medium breasts,  bulging crotch, Draw in detail, Very beautiful blue eyes, solo, Background blur, , 
-
-Super close-up of face, earrings, 
-brown turtleneck sleeveless shirt, 
-outdoors, 
-from behind, Looking back, 
-shy smile, 
-perfect eyes, 
-
-
-```
-</details>
-
-### A hyper-realistic sci-fi cinematic shot of a cool 
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a764ff74fe9c46a595a6c451e6e7f3ee.mp4" width="400" alt="A hyper-realistic sci-fi cinematic shot of a cool " />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A hyper-realistic sci-fi cinematic shot of a cool ginger cat riding a massive, futuristic NVIDIA GeForce RTX 5090 graphics card. The GPU is designed like a high-tech hoverbike with glowing green RGB lights, intricate heat pipes, and spinning fans. They are flying through a dark digital void filled with cascading emerald binary code and glowing fiber-optic streams. The cat's fur is blowing in the wind, determined expression. Motion blur, ray-tracing reflections on the metal surface, sharp focus, 8k resolution, Unreal Engine 5 render.
-```
-</details>
-
-### anime screencap
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/5a1bef52d3db53fea56ea62b06ef3c93.jpeg" width="400" alt="anime screencap" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-anime screencap, anime screenshot, anime coloring, masterpiece, best quality,
-<lora:Yor_ForgerYor_Briar_Spy_x_Family_-_V2_Season_3:1>
-1girl, solo, black hair, red eyes, sidelocks,
-L1GHTR3DSW3473R, sitting, pants, hairband, white hairband, red eyes, indoors, smile, red sweater, black pants, flat black shoes, bandaid on nose, bandage on arm, kitchen, looking at viewer,
-```
-</details>
-
-### (color theme gold and blue
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/278104bfaaaafd1d3caf828b7c488d0c.jpeg" width="400" alt="(color theme gold and blue" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme gold and blue,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A chaotic composition with cluttered details filling the frame, horror vacui style, overwhelming visual complexity.:1.3) 
-Build a scene focusing on 
-A necrotic observatory looking into the void with bone telescopes made of vertebrae, dark astronomy, gothic featuring Coral-concrete hybrid ruins resulting from aquatic apocalypses, reclaimed by sea, wet textures . 
-Covered in alien biological growth and slime, pulsating organic textures, infestation aesthetic environment .
-The environment is captured during Winter black ice generating frictionless data highways, sleek dark surfaces, reflections. 
-The sky is filled with Stratocumulus cumulomutatus evolving into random number generator weather art, psychological horror, abstract shapes. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### (1girl
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/e673780819fa367c650c061258f10a41.jpeg" width="400" alt="(1girl" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(1girl, solo, outdoors, sky, cloud, from behind, blurry, tree, night, depth of field, bird, cloudy sky, scenery, silhouette, dark, city lights:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
-```
-</details>
-
-### (color theme pink and white :1.5)
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/9c465ffc8ccb39e6bf52e4d54555c1d1.jpeg" width="400" alt="(color theme pink and white :1.5)" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(color theme pink and white :1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A chaotic composition with cluttered details filling the frame, horror vacui style, overwhelming visual complexity.:1.3) 
-Build a scene focusing on 
-dynamic front angle of A macro view of tiny moss-knights riding beetles, battling in a canyon made of tree bark, miniature world exploring A peaceful zen ocean with ink-wash style waves, sumi-e aesthetic, minimalistic and calm . 
-The scene depicts a Fused with molten glass and obsidian from intense heat, smooth shiny surfaces, volcanic aftermath world
-.
-The environment is captured during Shimmering summer heat waves creating mirages of holographic cities on the horizon, visual distortion, hot desert atmosphere. 
-The weather is Hailstones shaped like glowing data blocks (blockchain hail) hitting sky contracts, visual metaphor, 3d render style. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
-```
-</details>
-
-### (ultra realistic
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/8e524888512d99da9a7d976a71a260a1.jpeg" width="400" alt="(ultra realistic" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, tight long sleeve shirt, two tone shirt, sleeves rolled up to elbows, forearm tattoo, midriff, mini shorts, fishnets, choker, rings, backpack, backpack straps,
-Dark eyes, looking at viewer, piercings, facial piercings, mommy,
-Seductive, 
-Pokemon, pokemon trainer, pokeballs on belt, holding a poke ball, sitting on tree stump, 
-Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up, from above, view from above,
-```
-</details>
-
-### (high quality:1.4)
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/55a7218be0035f37fe6271ce98a8e685.jpeg" width="400" alt="(high quality:1.4)" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(high quality:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy,1woman, beautiful woman, 20-year-old woman, 
-blond hair, long hair,  Loose wavy hair,, swept bangs, 
-, low ponytail,     various hairstyles, Detailed hair, , blue eyes, oval-faced, nostrils, slim, Medium breasts,  bulging crotch, Draw in detail, Very beautiful blue eyes, solo, Background blur, , 
-
-Super close-up of face, earrings, 
-brown turtleneck sleeveless shirt, 
-outdoors, 
-from the side, 
-shy smile, 
-perfect eyes, 
-
-
+fern \(sousou no frieren\), cat, holding animal, holding, red bow, hair bow, long hair, animal, holding cat, upper body, covered mouth, long sleeves, blue eyes, blush, covering mouth, ribbon, looking at viewer
 ```
 </details>
 
@@ -1075,118 +618,126 @@ perfect eyes,
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/8c7b0803c291ca2486343dda688bab42.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/2108aba6d6aea7e22691e7d4a866829e.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece,best quality,8K resolution,ultra-detailed,
-1 girl,(Karyl (Princess Connect! Re:Dive):1.2),close-up,(holding the magic book:1.2),casting a spell,dynamic pose,determined expression,
-behind the castle,intense magical energy vortex,floating magical tomes,lightning effects,dramatic angle,
-glowing magic circles,swirling dark and light energy particles,hair and clothes flowing in the magical wind,
-anime game artwork,high detail,vibrant colors,
-dramatic lighting,rim light,vibrant purple and blue magic effects,high contrast between light and shadow,
-clean lines,smooth shading,cell shading,sharp details,magical glow effects,
-dynamic composition,low-angle shot,depth of field,
-<lora:USNR_STYLE_ILL_V1_lokr3:0.6>,usnr,<lora:TRT(Illust)0.1v:0.3>,<lora:CunnystyleV10:0.7>,<lora:Modern_anime_render:0.7>,modern_anime_render,high_detail,vivid_colors,soft_shading,dynamic_lighting,clean_lineart,atmospheric_depth,glossy_highlights,painterly_texture,<lora:People'sWorks_v9_128dim_Illusv1.0_test4_r2:0.7>,
-<lora:lightingSlider:1>,
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+ holding fan, folding fan, side view, dynamic pose, looking at viewer, petals falling, translucent fan, cherry blossom, blurry foreground, branch, kiss mark, portrait,
 ```
 </details>
 
-### 1girl
+### cover of the xbox video game &quot;forza horizon&quot; but r
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/cc4e6a687f3e2f87cc5ccd0e75f5bd7b.jpeg" width="400" alt="1girl" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c0f471b02854202b3048d9c92ebc2445.jpeg" width="400" alt="cover of the xbox video game &quot;forza horizon&quot; but r" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-1girl,beautiful face, perfect eyes, detailed eyes,mature female,
-dutch angle,portrait, 
-black hair, blunt bangs, long hair, (straight hair),
-red eyes,
-collarbone, 
-collared shirt, red plaid bowtie, beige vest, 
-hand up,
-cherry blossoms, outdoors, petals, blurry foreground, dappled sunlight,
-bokeh, indicate details, depth of field,lens flare, vibrant color,multicolored background,
-masterpiece,best quality,amazing quality,absurdres,highres, newest,
-<lora:0__11Xx:0.6>, 0__11Xx_illu,
-<lora:maorix IL 1.0:0.5>,
-<lora:mikage:0.3> ,mikage,
-<lora:cinematic feeling V5:0.5> ,cinematic feeling,
-<lora:rella:0.3> rellahuafeng
- <lora:Ha9siro__by_UTdT69:0.6> h49s1r0, reflection,
+cover of the xbox video game "forza horizon" but replacing the word "forza" with the word "morsa", also replacing the cars on the cover with walruses skidding on the asphalt
 ```
 </details>
 
-### anime screencap
+### A whimsical soft digital painting
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/ff12fcb985ed79637d88818c80e0d3c1.jpeg" width="400" alt="anime screencap" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f41b1b27c4570ed2c67a6933b3b94149.jpeg" width="400" alt="A whimsical soft digital painting" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-anime screencap, anime screenshot, anime coloring, masterpiece, best quality,
- <lora:Yor_ForgerYor_Briar_Spy_x_Family_-_V2_Season_3:1>
-1girl, solo, black hair, red eyes, sidelocks,
-C4RD1G4NJ4CK370U7F17, Yellow Cardigan, Yellow Bucket Hat, Maroon shirt, 1girl, black hair, solo, long hair, red eyes, dress, looking at viewer, sweatdrop, open mouth, :O, cowboy shot
+A whimsical soft digital painting, masterpiece, high quality, Oil Painting, a pale princess walking under an expansive night sky, the milky way galaxy visible in the sky, Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic, rich deep, novuschroma, del1cate_balance style, in the style of Rembrandt. FS, <lora:style_of_Rembrandt_FLUX_135:.8> <lora:Delicate_Balance:.3> <lora:neeeg_f1:-1> <lora:113_novuschromaFLX_1:.2> <lora:softwhim:1>
 ```
 </details>
 
-### A screenshot of the TV show Traitors where the axo
+### &lt;lora:B-mixxxlora:0.47&gt; &lt;lora:Nu_Gurl:0.3&gt; &lt;lora:r
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/e20f4895dcf3fba7f528e191a89ab9d4.jpeg" width="400" alt="A screenshot of the TV show Traitors where the axo" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/cea0a19b9038cebd8c094f3136303481.jpeg" width="400" alt="&lt;lora:B-mixxxlora:0.47&gt; &lt;lora:Nu_Gurl:0.3&gt; &lt;lora:r" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A screenshot of the TV show Traitors where the axolotl, anthropomorphic tiger man, and Jawa are all traitors in red robes who write down their decision to murder Goku with blue hair. 
+<lora:B-mixxxlora:0.47> <lora:Nu_Gurl:0.3> <lora:reij-detaILer:0.74> <lora:Breasts size slider NNFFS_alpha16.0_rank32_full_last:0.71> <lora:sexy_details_v4:0.67> <lora:Rembrandt Lighting style illu v1:0.64>
 ```
 </details>
 
-### (ultra realistic
+### Semi-realism
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/3efd4165394c5c0703486b80c74a5c41.jpeg" width="400" alt="(ultra realistic" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/25a84507ffd0d0b643e10b1085be7a84.jpeg" width="400" alt="Semi-realism" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, tight long sleeve shirt, two tone shirt, sleeves rolled up to elbows, forearm tattoo, midriff, mini shorts, fishnets, choker, rings, backpack, backpack straps,
-Dark eyes, looking at viewer, piercings, facial piercings, mommy,
-Seductive, 
-Pokemon, pokemon trainer, pokeballs on belt, holding a poke ball, sitting on tree stump, 
-Pikachu on shoulder, Pikachu on girls shoulder,
-Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up, from above, view from above,
+Semi-realism, ma1ma1helmes_b_illu, 
+(2girls, masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, 
+frieren, fern \(sousou no frieren\), (goku_and_vegeta_in_the_rain_(meme), tongue out, rain, open mouth,looking up)
 ```
 </details>
 
-### a high quality 9:16 resolution digital image of a 
+### solo
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/6f3dfd27aebb190f532e4521c35f283d.jpeg" width="400" alt="a high quality 9:16 resolution digital image of a " />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9cb6cabe7ef8315a4394aac75b3f2488.jpeg" width="400" alt="solo" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-a high quality 9:16 resolution digital image of a highly detailed dank old bar, the bar is dark and grimy with lots of shadows, we see a woman mostly hidden by shadow holding up a champagne flute for inspection, the glass contains an intricately detailed universe, within the universe we see a variety of stars, nebulae and galactic dust detailed in bright and vivid colours, the universe has a slight liquid appearance, they glow at night
+solo, masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, tek1to_m1dor1,abstract,dynamic composition, usnr, 
+vibrant color palette, line art, 
+
+night, blue eyes, 1girl, mature, long hair, blush, hat, skirt, shirt, outdoors, black hair, white shirt, jacket, black skirt, closed mouth, bangs, power lines, long sleeves, sky, collared shirt, solo, blurry, open clothes, very long hair, holding,
+```
+</details>
+
+### wixen
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/89216e80ecbff3be03918edb628455f2.jpeg" width="400" alt="wixen" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+wixen, high quality, <lora:palworld_Wixen_V1.1[IL]:1>
+solo, holding fire, smile, smirk, large ears, animal ear fluff, slim, beautiful, 1girl,
+dynamic pose, dynamic angle, raging fire, outdoors, night, blurry background,
+looking at viewer, fluffy fur, kemono, anthro, large eyes, blue eyes, detailed eyes, long eyelashes, high angle view,  three-quarter portrait, glowing eyes, perspective, reaching towards viewer, 4 fingers, claws, japanese theme, dark theme
+dark theme, chiaroscuro, animal ears through headwear,  large  animal ears, happy, 
+fluffy fur, 
+by snowskau
+```
+</details>
+
+### photo realistic
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/db23e7244d169728cef06bbb28bb0854.jpeg" width="400" alt="photo realistic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+photo realistic, high quality photo, realistic, full length photograph, 16k, HDR, uber detailed.
+d351 d4rk is wearing a bubblegum pink corduroy button-down long-sleeved shirt made cropped by a knot tied in the front, white tailored slacks with checkerboard of squares of thin grey & green plaid stripes and black leather stiletto pumps. Her hair is pinned back in a pony-tail and she has small gold hoop earrings and a simple gold chain. She is standing with one hand on her hip, her feet placed crossed, she is in the middle of a busy New York City street between rows of cars stuck in traffic.
 ```
 </details>
 
@@ -1194,13 +745,18 @@ a high quality 9:16 resolution digital image of a highly detailed dank old bar, 
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/0959c698eb404e3b40234ce2ee6a1f20.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9c17436f9177924af54db911a17165f7.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, newest, best quality, amazing quality, high quality, highres, cinematic lighting, absurdres, 8k, detailed, highest definition, high resolution, scenery, source_anime, absurd_res, halftone, digital media \(artwork\), solo, monster, trees, silhouette, (aura), markings, (glowing limbs), high contrast, luminescent skin, sprout on head, walking, plantling, nature being, chibi, no lineart, solo, faceless,  plant body, glowing aura, radiant, silhouette, blank white eyes, solid eyes, no mouth, chibi, smooth, faceless design, giant leaf on head, standing on branch, nature colors, (green theme, blue theme), glowing eyes, (no mouth), (no facial features), big hands, (green glossy skin:1.3),  from side, (glowing),  casting magic, tiny plant, gradient eyes, glossy highlights, very long hair, white hair, pointy ears, solid eyes, wavy hair, curly hair, gradient horns, glowing horns, shortstack, (tree tops background:1.4) (deep forest background:1.3), (kotteri, masha, himukai yuuji:1.2), <lora:JFTMVR:0.5> <lora:Nezumi_Style_Lora_Illustrious_V7-000013:0.7>
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+
+side view, profile, looking up, parted lips, dazed expression, hand on jaw, hand on chin, another hand holding lips, dark background, pink atmospheremeteorhanddrawing, Bling Oil Painting, shadows, glow,
+[(by alphonse_\(white_datura\):1.3)|(by kana616:0.8)], [(by hen-tie:1.3)|(by kagami_\(galgamesion\):1.2)], (by kinokohime:1.2), (by yatsuha_\(hachiyoh\):0.8), (by j.k.:1.1), by kukka, by keihh, wlop, cinematic, epic,
 ```
 </details>
 
@@ -1208,7 +764,7 @@ masterpiece, newest, best quality, amazing quality, high quality, highres, cinem
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/207e41b73073587fc8098bfa4f82bff0.jpeg" width="400" alt="explicit 3d render" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/207e41b73073587fc8098bfa4f82bff0.jpeg" width="400" alt="explicit 3d render" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1245,21 +801,18 @@ casual clothing, safe for work, sfw,
 ```
 </details>
 
-### A skeletal pontiff clad in decaying ivory robes st
+### A stunning view of zzNeuschwanstein Castle atop a 
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/5df1d282499f3ea77bb6a2e809ec7c4b.jpeg" width="400" alt="A skeletal pontiff clad in decaying ivory robes st" />
+<img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/338d9264-2128-4456-bbf8-e360632574f0/original&#x3D;true/338d9264-2128-4456-bbf8-e360632574f0.jpeg" width="400" alt="A stunning view of zzNeuschwanstein Castle atop a " />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A skeletal pontiff clad in decaying ivory robes stands amid rising flames, a tarnished crown fused to its skull and burning with a steady golden fire. Charred prayer cloth hangs from its shoulders, and a heavy reliquary medallion rests against exposed bone. The fire does not consume the figure but frames it, illuminating cracked enamel textures, scorched fabric, and centuries of accumulated ash. The background collapses into smoke and darkness, as if the ritual space exists outside reality.
-
-dark fantasy oil painting, ecclesiastical horror, corrupted religious iconography, dominant amber and fire-orange tones, dramatic low lighting, heavy canvas grain, painterly realism, sacred martyr aesthetic, slow-burning ritual atmosphere, solemn and oppressive mood
-
--- ar 2:3
+A stunning view of zzNeuschwanstein Castle atop a lush forested hill at dramatic sunset, golden sunlight piercing through swirling cloudy skies, distant ocean horizon glowing in warm hues, tall trees framing the fairy-tale towers, serene nature landscape with misty valleys below. photorealistic, ultra-detailed, 8k, masterpiece, sharp focus, cinematic volumetric lighting.
+,,
 ```
 </details>
 
@@ -1267,125 +820,7 @@ dark fantasy oil painting, ecclesiastical horror, corrupted religious iconograph
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/cb8fb72961de5e814e9238f4117cc4f1.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
-Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-sitting girl, silhouette human, negative_color, lots of flowers in hair, clean composition, silhouette of a hummingbird, wings filled with blooming flowers, vibrant watercolor, (blending:2), negative_space, inverted colors, lineart,, (double_exposure:2.3), gentle pastel tones, ethereal glow, dreamy aesthetic, soft negative space background, surreal and artistic
-```
-</details>
-
-### h49s1r0
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/f9063e9cee2b2e2f0bd9a5385729eea5.jpeg" width="400" alt="h49s1r0" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-h49s1r0, high detail, intense focus, very awa, masterpiece, best quality, newest, absurdres, highres, focus, depth of field, dynamic angle, cinematic lighting, volumetric lighting, 1girl, solo, long hair, looking at viewer, bangs, hair ornament, holding, hair between eyes, jewelry, white hair, earrings, japanese clothes, sword, flower wreath, kimono, holding katana, floral print, close-up, reflection, glint, multicolored eyes, gold flower, eye focus, colorful, shiny, abstract background, dutch angle, cowboy shot, sunlight, shaded face,  <lora:Ha9siro:1>
-detailed background high quality detailed, ((very aesthetic)), 8K, 16K, detailed, high quality, best quality, beautiful, detailed eyes, perfect anatomy,
-usnr, masterpiece, ultra-HD, cinematic lighting, photorealistic, high detail, depth of field, (blurred background), (dramatic lighting), masterpiece, best quality, very aesthetic, 8k, anime, detailed background,
-```
-</details>
-
-### masterpiece
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/dc026b6f6870fb63ddb354fa9ae9e4c4.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
-Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-dynamic pose, vibrant colors, cinematic position, long hair, asia, chinese, dress, night, water, from side, bird, long sleeves, sky, black hair, building, standing, hair ornament, blue theme, looking at viewer, blue dress, high contrast, backlighting, bokeh, volumetric lighting, cloud, watercraft, blurry background, standing,scenery, glowing butterfly, light smile, horizon, flower, cloudy sky, outstretched arm, barefoot, boat, sidelocks, moon, black eyes, closed mouth, chromatic aberration, blue flower, blurry, ocean, bug, outdoors, crescent moon, hair flower, black background, dark, color connection, sidelighting, bloom, depth of field, white light. detailed eyes, cinematic color grading, dynamic pose, dramatic angle, tilted angle, cinematic lighting, surreal,dramatic lighting,
-```
-</details>
-
-### 1girl
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/fae12bb9ebc0155936e66159c2f1628b.jpeg" width="400" alt="1girl" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-1girl, mt_lady, red eyes, blonde hair, drill hair, bright pupils, masterpiece, best quality, high quality, mature female, (giantess),
-cosplaying godzilla, godzilla \(cosplay\), (onesie:1.2), kigurumi, (dinosaur costume, dinosaur hood, dinosaur tail), dragon costume, dragon hood,
-outdoors, city, buildings, skyscrapers, cars,
-(solo:1.2), full body, (dynamic pose), walking, stomping, claw pose, breath weapon, (breathing fire:1.2), innocent, happy, smile, :3, cute fang, open mouth,
-intricate, highly detailed, majestic, depth of field, movie still, circular polarizer
-```
-</details>
-
-### 1girl
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/d18e9d0bb5bade6f4ef21d0346d318a7.jpeg" width="400" alt="1girl" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-1girl, Elenwë_OC, (adult woman), woman, (yawning, hand up, stretching), low on energy, sleepy, half closed eyes, tired
-streaming in a cozy bedroom streamer setup at night,
-sitting comfortably at a desk or in a gaming chair, relaxed posture,
-wearing a fluffy oversized pink hoodie,
-cute pink dolphin shorts, pink tights, cozy loungewear style,
-holding a game controller with one hand, mid-game moment,
-focused but relaxed expression, soft smile, enjoying the stream,
-long orange hair tied in a ponytail, slightly fluffy,
-blue eyes softly lit by the screen glow,
-fox ears visible, wearing cute pink headphones with cat/fox ears,
-fox tail relaxed behind the chair, fluffy and cozy, freckles,
-streaming setup: monitor, soft LED lights, microphone on a boom arm,
-pink and pastel RGB lighting, gentle glow, not harsh,
-nighttime ambiance, window showing dark sky or city lights,
-cozy chill vibes, calm and inviting atmosphere,
-screen light reflecting softly on her face and hoodie,
-dynamic but relaxed composition, eye-level or slight angle,
-cinematic slice-of-life moment, comfy streamer aesthetic,
-high quality digital art, official art,  
-soft contrast, warm pink and purple tones,
-sharp focus on character, softly blurred background,
-emphasis on coziness, cuteness, and chill streaming mood
-If you want to level it up:
-```
-</details>
-
-### &lt;lora:gc_vintage:1&gt; vintage &lt;lora:Fancha_style_v.5
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/6aa5736230653f5e9239a99b4e70f027.jpeg" width="400" alt="&lt;lora:gc_vintage:1&gt; vintage &lt;lora:Fancha_style_v.5" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-<lora:gc_vintage:1> vintage <lora:Fancha_style_v.5:1> Fancha style <lora:Anime v1.3:1>  <lora:secret_grotesque_fantasy_flux1_v0.1_copy:1> secret_grotesque_fantasy
-```
-</details>
-
-### masterpiece
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a35b1219a0aa5b5e0eb3da5a2deb83a7.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/a35b1219a0aa5b5e0eb3da5a2deb83a7.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1398,26 +833,147 @@ Glowing gears, pants, solo, standing, black pants, blurry, shirt,Glowing hourgla
 ```
 </details>
 
-### (ultra realistic
+### A serene
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/89fc43da6c02a6b008567e738a372cb1.jpeg" width="400" alt="(ultra realistic" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f8e3db0ffa2588b898fd8767ebc85382.jpeg" width="400" alt="A serene" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, tight long sleeve shirt, two tone shirt, sleeves rolled up to elbows, forearm tattoo, midriff, mini shorts, fishnets, choker, rings, backpack, backpack straps,
-Dark eyes, looking at viewer, piercings, facial piercings, mommy, hands on shirt, shirt lift, breasts painted, breasts painted like pokeballs, 
-Seductive, smirk, flirty, blush, 
-Pokemon, pokemon trainer, pokeballs on belt, holding a poke ball, sitting on tree stump, 
-Pikachu on shoulder, Pikachu on girls shoulder,
-charmander on shoulder, charmander on girls shoulder, 
-Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up, from above, view from above,
+A serene, atmospheric portrait of a woman seated on a narrow balcony overlooking a quiet historic Italian street. The environment is simplified and calm, with softened architectural details and reduced visual clutter, allowing the mood to dominate over detail.
+The model sits relaxed on a small balcony chair, body turned slightly but face looking directly into the camera. Her posture is elegant and natural. She wears a light, flowing summer dress and subtle accessories, evoking a timeless Mediterranean morning. Her hair is held together by a simple red scarf with a playful white floral pattern. A cup of coffee and some fruit is on the table.
+Warm early-morning sunlight gently illuminates the model from the side, wrapping her in soft golden light and clearly separating her from the background. The lighting is optimized to flatter the skin tones and bring the model fully into focus, while the background remains slightly muted and less detailed.
+The color palette is warm and restrained: soft creams, sunlit stone, muted pastels. The atmosphere feels quiet, intimate, and nostalgic, with a sense of stillness and slow morning calm.
+Depth of field is controlled to keep the model sharp while the surrounding buildings and canal softly recede, creating visual breathing space.
+Style & camera keywords:
+cinematic lifestyle photography, soft morning light, shallow depth of field, atmospheric portrait, Mediterranean mood, simplified background, editorial calm
+```
+</details>
+
+### &quot;(masterpiece
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c98f1766d4d02db26dfa473fe216e3a3.jpeg" width="400" alt="&quot;(masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+"(masterpiece, best quality, high quality, highres), very awa, highres, absurdres, 
+(chii-kun \(seedyoulater\):0.7), (inutose:0.8), (chengongzi123:0.7), 
+(no humans:1.1), (cute:1.2), comfy, solo, cozy, 
+(ostrich:1.1), 
+(tending campfire stew:0.8), (cast iron pot:0.8), (pine forest:0.8), (dusk falling:0.8), (shared spoons:0.8), (warmth:0.8), 
+depth of field, cinematic, beautiful background, "
+```
+</details>
+
+### Magnificent futuristic Baldwin VO-1000 diesel loco
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/eff867ee7f44112f7fa238bdaee45198.jpeg" width="400" alt="Magnificent futuristic Baldwin VO-1000 diesel loco" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Magnificent futuristic Baldwin VO-1000 diesel locomotive, train, very detailed, subway train, metallic train:1.2, metallic:1.5, closeup, detailed:2.0, sheen:1.7, realistic:1.2, photorealistic. Skyline, skyscrapers:2.0, river, beautiful, day time sky. <lora:YFG-FutureIsDark-ZIB-v1-3k:1.0>
+```
+</details>
+
+### Semi-realism
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d3f15d14ad8907294e334bfe6c11a5a9.jpeg" width="400" alt="Semi-realism" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Semi-realism, ma1ma1helmes_b_illu, 
+(1girl, solo, masterpiece, best quality, very aesthetic, amazing quality, absurdres, newest, simple background), BREAK, 
+hatsune miku, spring onion, solo, twintails, long hair, open mouth, holding, tabi, sandals, japanese clothes, aqua eyes, vegetable, white kimono, zouri, food, fighting stance, holding food, aqua hair, looking at viewer, socks, holding vegetable, hakama, white socks, full body, kimono, rock, hakama pants, debris, ready to draw, hair between eyes, pants, arm guards, dust, dust cloud, hair ornament, green pants, floating hair, squatting, very long hair
+```
+</details>
+
+### arsworldoflight
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/aad0596f48acd58a04f405dce77126c4.jpeg" width="400" alt="arsworldoflight" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+arsworldoflight, running dogs, light particles,
+Cyberspace,(created by glowing magical energy in cyberspace, Digital Cyberspace theme,
+```
+</details>
+
+### room background blurred. from side
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/3ef2bfff763268155411ccbda976d1f7.jpeg" width="400" alt="room background blurred. from side" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+room background blurred. from side,cowboy shot,A woman mechanized is leaning on her side diagonally against the wall.natural lighting, looking at viewer. brown eyes,medium-length metallic silver hair,specular chrome mechanical body with realistic reflection and metallic luster, ,intricate engineered mechanical joints. best quality,HDR, 8K, amazing quality,very aesthetic, absurdres,mechako
+```
+</details>
+
+### Night
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ad2282ebfaed7f8bb6d8e3d70e589cfc.jpeg" width="400" alt="Night" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Night, medieval town on fire, night time, star, moon, crowd, dark night, dark background 
+score_9, score_8_up, score_7_up, epic image of a beautiful woman, perfect face, riding a cute dragon,  <lora:dragonriderpxl:0.8>, Unfazed dragon,
+Red dragon, 
+dragonriderpxl, motion, action shot, best quality, masterpiece, above the clouds, medieval town, beautiful, focus on woman, female focus, medium dragon
+Night, medieval town on fire,
+```
+</details>
+
+### A young Black woman with natural hair in an elegan
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7d76299329f2ad951b805cf38739bfc2.jpeg" width="400" alt="A young Black woman with natural hair in an elegan" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A young Black woman with natural hair in an elegant afro sits on a windowsill in an abandoned Victorian mansion, framed by tall arched windows with peeling paint. She wears a vintage 1920s-style beaded dress in champagne gold that catches the light. One leg is drawn up while the other dangles, and she holds an antique hand mirror, looking at her reflection with a contemplative expression. Vines have grown through the broken windows and wrap around the frame, with white roses blooming among the leaves. Dust particles float in the dramatic shafts of golden afternoon light streaming through the glass. Behind her, the abandoned room is visible with faded wallpaper and a crystal chandelier. The contrast between her luminous presence and the decaying grandeur is striking.Vibe: Beauty reclaiming forgotten elegance, queen in ruins of past splendor
+```
+</details>
+
+### normie the hedgehog
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/71d129db80c553fae9f3efd7c926fa51.jpeg" width="400" alt="normie the hedgehog" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+normie the hedgehog
 ```
 </details>
 
@@ -1425,7 +981,74 @@ Close up, from above, view from above,
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/3a125b190b097a503acfa962a9425284.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/9b81c77197883c097e53e96a6c9e361a.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, very aesthetic, absurdres,
+BREAK 
+{{(light skin:2)}}, (((solo,1 girl))), (long hair, hime cut, black hair,), (expressive eyes, blue eyes), (Beautiful face, cute face), (tall, skinny body, medium breasts, toned body),   
+BREAK
+((cinematic composition, epic composition, depth of field, dynamic_lighting, detailed_background, dramatic_angle, foreshortening)), ((dynamic background)), 
+, 
+sexy mecha musume, tight glossy black bodysuit, high-cut thigh openings, exposed midriff and cleavage, minimalist segmented white and metallic armor plating (strategically placed on shoulders, hips, chest), glowing blue energy lines (LED accents) running across the suit, mechanical joint details, , outdoors, storm, (rain:1.2), cloudy sky, dark clouds, contrapposto, legs apart, standing, head tilt, scenery,  (maroon theme, red theme, dark theme, rosy colors, yellow colors, pink colors), night sky, red moon, dark clouds, spider lilies, detailed background, clear background structure, clean background, soft lighting, volumetric lighting, soft shading, glowing particles, bokeh , feet out of body, closed mouth, looking at viewer, smirk
+BREAK
+, Jeddtl02, flat color, BSSHRGKS, blue hour, late night, dark, East Asian, K-beauty, Slanted eyes, Asian face, Korean girl, KRGRL, 99df83e1-fcb1-4499-87f0-d71ae7d2960a, <lora:51df16f0-8196-4d73-9f45-bcc0514a4893:0.7>, <lora:b30db7ae-1588-4c3c-ac9c-7300908eb343:0.4>, <lora:6023c98a-7213-43e7-8625-1efe4e41b205:0.7>, <lora:3ce30a1d-ec43-4288-a09a-3bf002e80499:-0.7>, <lora:31303ad8-bfad-4c88-a167-7d46f1927128:0.5>
+```
+</details>
+
+### score_9
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/787afa8ddcb1b27c33d272bac397deb1.jpeg" width="400" alt="score_9" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+score_9, score_8_up, score_7_up, masterpiece, high quality, BREAK <lora:DragonPonyLora:1> red dragon, teeth, monster, red scales, horns, claws, tail, flying, sky, girl riding on dragons back
+Red dragon, open mouth, Breathing fire
+```
+</details>
+
+### mytt32l12
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f4fb724d20081b6453e3383ac2ddd5bf.jpeg" width="400" alt="mytt32l12" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+mytt32l12, 1girl, solo, white hair, long hair, hair intakes, hair between eyes, single sidelock, single hair bun, braided bun, crown braid, blue eyes,mature female,medium breast,triangle earrings,collarbone, white choker,frilled choker,wedding dress, white dress, long dress, frilled dress, bare shoulders, off-shoulder dress, sleeveless dress, white elbow gloves, dress bow, white bow,looking at viewer, outdoors, spring afternoon, cherry blossom path, hand holding, pov hands, falling petals, petals floating, pastel lighting, soft glow,seductive pose,
+,cinematic,natural skin,soft lighting, volumetric lighting, close up portrait,
+(masterpiece:1.2), (best quality:1.2), (very aesthetic:1.2), (amazing quality,:1.2), (detailed background),(best illumination),newest, perfect anatomy,illustration,
+```
+</details>
+
+### (1girl
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e673780819fa367c650c061258f10a41.jpeg" width="400" alt="(1girl" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+(1girl, solo, outdoors, sky, cloud, from behind, blurry, tree, night, depth of field, bird, cloudy sky, scenery, silhouette, dark, city lights:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
+```
+</details>
+
+### masterpiece
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/af023cd170cbbdf2ebcfc9d75c158ced.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1433,155 +1056,23 @@ Close up, from above, view from above,
 ```markdown
 masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
 Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-Holding a giant brush, a brush taller than oneself, Brush standing upright, Combat stance, foreshortening, serious expression, frowning
+mysterious girl, brilliant cyan eyes, white messy hair, wearing an oversized winter white parka, fur collar, white snake coiled on shoulder, holding a blood-red apple, juice dripping from apple, biting apple, butterfly jewelry, red accents, snowy aesthetic, minimalist background, high contrast, cinematic lighting, sharp lines,
 ```
 </details>
 
-### A city on the moon at dawn.
+### HDR
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/cbc3e332ae85aab7cc0930e49041d160.jpeg" width="400" alt="A city on the moon at dawn." />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6d98b179b5e42912902e38d6e788c878.jpeg" width="400" alt="HDR" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A city on the moon at dawn.
-```
-</details>
-
-### solo
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/94dcb49495f2a3e1e491535d1ac2143c.jpeg" width="400" alt="solo" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-solo, masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, usnr, perspective,
-vibrant color palette, sketch, line art, minimal color,
-no line, ((lineless art)), 
-
-1girl, blonde hair, blue eyes, messy hair, ponytail, medieval fantasy, off-shoulder black kimono, sarashi, war cry, standing in a field, bright, dramatic shadow, volumetric lighting, dramatic action, swinging katana, epicaction, supernatural energy, shadowy background, dynamic pose, dramatic lighting, detailed background, foreshortening, dynamic composition, dutch angle
-
-[(white background:1.5), ::2], transparent background, isometric, full body,
-absurdly detailed composition, cute colors dynamic composition,
-```
-</details>
-
-### kirijou mitsuru
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a05f9d147035c6f914c1cccd9f88b933.jpeg" width="400" alt="kirijou mitsuru" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-kirijou mitsuru, 1girl, solo, long hair, breasts, looking at viewer, simple background, long sleeves, red eyes, jewelry, jacket, upper body, earrings, red hair, parted lips, open clothes, nail polish, hair over one eye, coat, sweater, turtleneck, drill hair, turtleneck sweater, black sweater masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
-```
-</details>
-
-### (Masterpiece
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/7155ad60f749bd1128b100cc91998573.jpeg" width="400" alt="(Masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(Masterpiece, best quality, ultra-realistic:1.3), cinematic vertical portrait.
-A stunning female astronaut with messy blonde hair and detailed blue eyes sitting inside a dark sci-fi spaceship cockpit. She is looking slightly away with a serious, intense expression.
-She is wearing a futuristic iridescent white spacesuit with metallic textures, holographic sheen, and glowing neon collar.
-The cockpit is dark, illuminated by red and blue neon lights from the dashboard buttons and holographic HUD displays.
-(Heavy rain on the window glass:1.4), water droplets, condensation, wet surface, blurred cyberpunk city lights in the background with bokeh effect.
-
-Art Style & Effects:
-(Strong glitch art style:1.4), (datamoshing:1.3), digital artifacts, pixel sorting, screen tearing, chromatic aberration, signal interference, VHS noise overlay, broken data effect, holographic distortion, scanlines.
-Unreal engine 5 render, 8k resolution, highly detailed skin texture, sweat, volumetric lighting, sharp focus, ray tracing.
-```
-</details>
-
-### masterpiece
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/39b5cbd645e092e3462020d58b2e886a.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, high_quality, highres, 1girl, long eyelashes, freckles, blonde hair, straight hair, hair band, black band, forehead, blue eyes, school uniform, looking at viewer, standing, simple background, face focus,
-```
-</details>
-
-### (frieren
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/9207b6453f16ec6865a82b2c3862eb19.jpeg" width="400" alt="(frieren" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-(frieren, 1girl, solo, long hair, jewelry, twintails, green eyes, upper body, white hair, earrings, choker, pointy ears, grey background, from side, profile, capelet, elf, light particles, white capelet, dangle earrings:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
-```
-</details>
-
-### masterpiece
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/6faadcc0f10f27192c4af81e76b1a0d3.jpeg" width="400" alt="masterpiece" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
-Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
-1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
-(close-up:1.5), black dress, ornate dress, sleeveless, pose, gesture, spirit cats, claws, long nails, black nails, gold accents, floating objects, surreal, fantasy, glowing cats, ethereal cats, floating cats, starry background, colorful, cat on foreground
-```
-</details>
-
-### hungry hungry hippos but instead of hippos
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/9823658fae7c4982e70e1538f0437e25.jpeg" width="400" alt="hungry hungry hippos but instead of hippos" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-hungry hungry hippos but instead of hippos, one is a jawa, one is a tiger, and one is an axolotl, and one is a very dark skin goku with blue hair but all of the balls look like emojis
-```
-</details>
-
-### The image is a twisted
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/d8fe9504823dd8b656c6089c50cf6196.jpeg" width="400" alt="The image is a twisted" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-The image is a twisted, nightmarish landscape of a fiery volcano, its slopes a jagged, crimson-red expanse of molten lava that seems to writhe and twist like a living thing. The air is thick with noxious fumes and the stench of death, as if the very earth itself is exhaling its last, tortured breath.
-Scores of skeletal figures, their bones twisted into macabre poses, stand frozen in the midst of this apocalyptic scene. Their skulls, grinning with empty, blood-red eyes, seem to leer out at the viewer, as if mocking the very concept of mortality. The skeletons' ribs, visible beneath their tattered, blackened flesh, appear to be cracked and splintered, like the very fabric of reality.
-As the lava flows, it seems to sear the skeletons' bones, leaving them blackened and charred, like offerings to some ancient, malevolent deity. The air is heavy with the stench of charred bone and burning flesh, and the sound of screams seems to echo through the twisted, nightmarish landscape, even though there are no humans to be seen.
-In the foreground, a cluster of skulls, their eyes glowing with an otherworldly red light, seems to be watching the scene unfold (red eyes, no humans, blood, skull, ribs, skeleton, bone:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
+HDR, 8K, masterpiece, best quality, amazing quality, very aesthetic, newest, 
+(artist:incase:0.1), (artist:tsuaii:0.1), (realistic:1), (flat colors:2), 
+heels, vintage heels, maryjane heels, close up on shoes, stockings
 ```
 </details>
 
@@ -1589,7 +1080,7 @@ In the foreground, a cluster of skulls, their eyes glowing with an otherworldly 
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/91705d68ca466741e5c8dda6800bbddf.jpeg" width="400" alt="(kiekILL" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/91705d68ca466741e5c8dda6800bbddf.jpeg" width="400" alt="(kiekILL" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1605,20 +1096,121 @@ full body, wide shot, serious, closed mouth, looking ahead, solo, standing, swor
 ```
 </details>
 
-### anime screencap
+### 1girl
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/98615e15823295173c4a6c84e2893a9f.jpeg" width="400" alt="anime screencap" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6cd083a043b697f53bbb577d7a31515d.jpeg" width="400" alt="1girl" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-anime screencap, anime screenshot, anime coloring, masterpiece, best quality,
-<lora:Yor_ForgerYor_Briar_Spy_x_Family_-_V2_Season_3:1>
-1girl, solo, black hair, red eyes, ponytail, gold earrings,
-V0LL3YB4LL0U7F17, white hairband, holding volleyball (object), knee pads, volleyball uniform, long sleeves, white shirt, red collar, red shorts, looking at viewer, smile,
+1girl, black hair, bob hair, tucked a strand of hair behind her ear, black eyes, villainess, smirk, closed mouth, masterpiece, high detailed skin, best quality, high res, very aesthetic, villainess, smirk, perfect eyes, (colourful:1.3), (detailed face:1.4), evil smile, lush lips, plump lips, natural big breasts, (close-up portrait off-shoulde, highly detailed, masterpiece, best quality, hyper detailed, cinematic composition) 
+(masterpiece, best quality, ultra-detailed, absurdres, highres, 8k, very aesthetic, highly detailed, cinematic, full detailed, detailed face, detailed eyes) Shiny eyes, black eyeshadow, black eyeliner, portrait, face focus
+BREACK
+ red and black theme, goth girl, black lip makeup, earring, black chocker, black leather jacket, white shirt, red necktie, pleated skirt, fingerless glove, Garther belt, black leather stocking
+```
+</details>
+
+### Generate me a funny comic image of a cute and fluf
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/fc3e26fd650ca51871e5340365854b92.jpeg" width="400" alt="Generate me a funny comic image of a cute and fluf" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Generate me a funny comic image of a cute and fluffy penguin in an Hawaiian shirt and sunglasses looking at the computer screen. There’s an image of him on the screen with a “furry” tag on the Ai image. He says to him “Wait… am I a furry!?!”
+```
+</details>
+
+### A woman composed of a dense
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/e2ca260964dca22b919a3127173f03c4.jpeg" width="400" alt="A woman composed of a dense" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A woman composed of a dense, starless night sky stands in a field of towering, translucent reeds. She reaches out, and the nebulae within her arm extend like tendrils of dark mist, weaving themselves between the reed stalks. Where the cosmic gas touches, the reeds begin to glow with embedded constellations, charting unknown maps. The air is thick with fireflies. This portrays her not just in an environment, but actively integrating with it, writing light onto the world. Deep blues, blacks, and points of warm gold and white. <lora:Zit_DIORAMA:0.9>
+```
+</details>
+
+### masterpiece
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/fefd65d916259cbc8977623657e68cad.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, very aesthetic, illustration, 1girl, solo, graphite gray hair, multicolored hair, white hair, empty eyes, hime cut, short hair, messy hair, jewelry, beige formal_clothes,  glowing veins, muscle, toned, angel wings, high heels, city, beige background, looking at viewer, from below, red theme, beige theme, black theme, soft colors, dynamic angle, dynamic pose, mist,
+```
+</details>
+
+### masterpiece
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/518d379d19d2aea886e25a85771992f9.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+fantasy background, (portrait shot), smile, looking at viewer, holding animal, holding owl, animal, owl, white owl, dynamic pose, dynamic angle, amazing quality,
+```
+</details>
+
+### A woman carved from a single piece of salt crystal
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/25c7b7e0868723ba236315cd9d95334c.jpeg" width="400" alt="A woman carved from a single piece of salt crystal" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A woman carved from a single piece of salt crystal stands within the fragrant, sticky chamber of a blooming honeysuckle flower. The flower's petals are vast, velvety walls of yellow and cream. She presses her crystalline hand against the nectar-drenched stamen, and the sugar instantly begins to grow a fragile, reverse-geode of clear rock candy within her palm, its structure echoing the precise facets of her own body, catching the thin sunlight in prismatic sparks. <lora:Zit_DIORAMA:0.9>
+```
+</details>
+
+### Inspired by Hokusai
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/7f48f2241faa9c9eb5caada7c8429912.jpeg" width="400" alt="Inspired by Hokusai" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+Inspired by Hokusai,  linquivera,  Ink illustration, (anime:0.5), inkpunk, sunrise ,surreal, traditional chinese ink painting, willow branches,willow tree in background,wuchangshuo,black and white ink painting ,best quality: 1girl, solo, white hair, very long hair, hanfu,standing,from side at the shore, look up, cloudy sky,, flowers, lake, (chinese architecture) Will-o'-the-wisp, moonlit, lonely, solitude, overaldDetail, extremely detailed, UHD,(long exposure , dystopian but extremely beautiful:1.4),award winning, masterpiece, best quality, midjourneyv6.1
+```
+</details>
+
+### A close-up of an astronaut in a dark spaceship cor
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/875d19c7f41d1a5124a081eb61b196b0.jpeg" width="400" alt="A close-up of an astronaut in a dark spaceship cor" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+A close-up of an astronaut in a dark spaceship corridor, gripping their radio as static crackles. The helmet visor reflects the eerie flickering lights. A chilling message, 'It's your wife on line two, ' is heard from the radio in their own distorted voice. The atmosphere is suffocating, with deep shadows and horror elements. Sci-fi horror lighting, ultra-realistic details, intense suspense. <lora:YFG-FutureIsDark-ZIB-v1-3k:1.0>
 ```
 </details>
 
@@ -1626,7 +1218,7 @@ V0LL3YB4LL0U7F17, white hairband, holding volleyball (object), knee pads, volley
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/e7bd46c4862411cac7d027e64c2db7fa.jpeg" width="400" alt="(masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/705432451f3fcd96f211bd7e4fd2c2c5.jpeg" width="400" alt="(masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1640,14 +1232,117 @@ V0LL3YB4LL0U7F17, white hairband, holding volleyball (object), knee pads, volley
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a1ef16db2288e36b9bda7c413733d977.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b84467471bce07098e6dc3e22e3cfee9.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, very aesthetic, best quality, 8k,ultra-HD,  amazing quality, absurdres, newest, high detail, vibrant colours, soft skin texture, (shiny skin:0.8), <lora:BuAnime NSFW Style_epoch_10:0.8>
-1girl,;q,arm up,blunt bangs,blurry,blurry background,blush,bow,brown eyes,brown hair,closed mouth,completion time,cowboy shot,day,dot nose,hair bow,hakama,hakama skirt,highres,index finger raised,japanese clothes,kimono,long hair,long sleeves,looking at viewer,miko,one eye closed,outdoors,red bow,red sidelocks,skirt,smile,solo,star sapphire,tongue,tongue out,touhou,white kimono,wide sleeves,, (masterpiece:1.2), (best quality:1.2), (amazing quality:1.2), very awa, newest, very aesthetic , balanced lighting, soft lighting, cinematic lighting, shadow depth, depth of field,, ultra-detailed eyes, detailed pupils, (high gradient eyes:1.2), eye reflection,
+masterpiece, amazing quality, best quality, ultra-detailed, masterpiece, best quality, (((very aesthetic, artistic))), newest, (sketch, line art, illustration), meola, 
+, 
+1girl, solo, close-up portrait, graphic lighting, pop art style, heavy grain texture, halftone shading, two-tone color scheme, yellow and black, rough edges, poster aesthetic, clean background, modern pop surrealism, cyborg eye,   
+hearts in eyes, 
+PRStyle
+```
+</details>
+
+### (ultra realistic
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6c9a771c8c44714080aafa29ded6d256.jpeg" width="400" alt="(ultra realistic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
+1girl, LunaWF, tan skin, vault, vault guardian, ancient protector, ancient weapon, hip sling, weapon on sling, hand on weapon, white braided hair, asymmetrical hair, asymmetrical sleeves, one sleeve rolled up, bicep, looking at viewer, forearm tattoo, asymmetrical clothing, beautiful eyes, eyes open, detailed eyes, freckles, at night, night, moonlight, midnight, shadows, dark, darkness, one leg up, knee bent, leaning against knee, Leaning to the side, Cowboy shot, close up, pointing, point, Front view, view from the front, facing viewer, Tip of sword, sword extended, holding out sword, sword towards viewer, foreshortening, asymmetrical pose,
+```
+</details>
+
+### masterpiece
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/39556af311c5afd5a7756067f6e151db.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality,
+zzNeuschwanstein, day, water, tree, traditional media, nature, forest, mountain, architecture, bridge, river, tower, landscape, lake
+,,
+```
+</details>
+
+### unholy-aesthetic
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/fc516008691b0ba757eedb86f6675949.jpeg" width="400" alt="unholy-aesthetic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+unholy-aesthetic, lazypos, masterpiece,best quality,amazing quality,very aesthetic,absurdres,ultra detailed face,ultra detailed eyes, 
+1boy, solo, adult male, 35 years old, mature, sexy, black slicked back hair, grey eyes, glasses, suit and tie, professor, sharp jawline,
+looking at viewer, upper body, medium shot, straight-on, (simple background), (white background),
+happy face
+```
+</details>
+
+### masterpiece
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/fc590db5bdae7341059b845705359bb1.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+1girl, solo, long white hair, straight hair, bangs, hair bun, cyan eyes, looking at viewer, neutral expression, maid outfit, black dress, white apron, frills, frilly headband, black ribbon, white tiger, realistic tiger, blue eyes (tiger), standing next to each other, desaturated, muted colors, grey theme, foggy background, forest silhouette, painterly, soft shading. smile, happy,
+```
+</details>
+
+### best quality
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/c0a282920e91ab34e5da8b4920999558.jpeg" width="400" alt="best quality" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+best quality, amazing quality, very aesthetic, absurdres,
+1girl, sasha, green eyes, brown hair, glasses, single braid, freckles, 
+dress, traditional nun, long sleeves, brown high heel boots, 
+hands on hips, standing, full body, smile,
+looking at viewer, solo, simple background, white background,   <lora:SashaSAONoobXL_byKonan:1>
+```
+</details>
+
+### (ultra realistic
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/6a4d63c2709dfc7a083604de6801f3f3.jpeg" width="400" alt="(ultra realistic" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
+1girl, breasts, muscles, small scars on face, scars, black eyeshadow, black eye liner, makeup, dark futuristic armor, stealth, tan skin, ponytail hair, black hair, blonde highlights in hair, red accents in hair, curvy, transparent chest armor, mesh material over breasts, ripped mesh, scratched armor, broken armor pieces, mesh material over stomach, dark full body armor, damaged armor, chunks broken off armor, wires showing, weathered armor, cybernetic plate armor, small blue lights in armor, military headset, neck mic, radio pack on back, radio antena on back, cybernetic weapons, cybernetic pistol, pistol holster on hip, skindentation, mesh leggings,
+military drop ship bay, futuristic military drop ship, equipment table, gun on table, hands on table, looking down, 
+detailed shadows, depth of field,
 ```
 </details>
 
@@ -1655,7 +1350,24 @@ masterpiece, very aesthetic, best quality, 8k,ultra-HD,  amazing quality, absurd
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/ac3d073326ba495f28175f0e6db7d998.jpeg" width="400" alt="1girl" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d9b5d1de40fa940e9935f22d6c54ba40.jpeg" width="400" alt="1girl" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+1girl, black hair, bob hair, tucked a strand of hair behind her ear, black eyes, villainess, smirk, closed mouth, masterpiece, high detailed skin, best quality, high res, very aesthetic, villainess, smirk, perfect eyes, (colourful:1.3), (detailed face:1.4), evil smile, lush lips, plump lips, natural big breasts, (close-up portrait off-shoulde, highly detailed, masterpiece, best quality, hyper detailed, cinematic composition) 
+(masterpiece, best quality, ultra-detailed, absurdres, highres, 8k, very aesthetic, highly detailed, cinematic, full detailed, detailed face, detailed eyes) Shiny eyes, black eyeshadow, black eyeliner, portrait, face focus
+BREACK
+ red and black theme, goth girl, black lip makeup, earring, black chocker, black leather jacket, white shirt, red necktie, pleated skirt, fingerless glove, Garther belt, black leather stocking
+```
+</details>
+
+### 1girl
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/ac3d073326ba495f28175f0e6db7d998.jpeg" width="400" alt="1girl" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1672,7 +1384,7 @@ full body, dutch angle, dynamic angle, dynamic pose, standing on one leg, lookin
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/32452e797d30e15d297fba569c7b9b3a.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/32452e797d30e15d297fba569c7b9b3a.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1685,182 +1397,136 @@ impasto, brush stroke, breasts, 1girl, bare shoulders, black kimono, blunt bangs
 ```
 </details>
 
-### (long hair
+### A stunning giant orc with glowing eyes. Its irides
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/181037fd0081cca1c53fa56082a2510f.jpeg" width="400" alt="(long hair" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/009d94c822306e4d7c50fb2fa64f2e5d.jpeg" width="400" alt="A stunning giant orc with glowing eyes. Its irides" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(long hair, simple background, shirt, multiple girls, black hair, long sleeves, white background, gloves, closed mouth, 2girls, jewelry, jacket, braid, ponytail, earrings, necktie, black gloves, collared shirt, belt, nail polish, looking at another, yuri, black jacket, hand on own hip, cross, black nails, black necktie, eye contact, cross earrings, neckwear grab, necktie grab:0.5) masterwork, masterpiece, best quality, detailed, depth of field, , high detail, best quality, very aesthetic, 8k, dynamic pose, depth of field, dynamic angle, adult, aged up
+A stunning giant orc with glowing eyes. Its iridescent exoskeleton shimmers with vibrant hues of ruby red, deep purple, and hints of fiery gold. Tiny cyber steam patterns glow along its shell, resembling ancient symbols. In the background, enormous, ((luminescent mushrooms)) tower like huge trees <lora:YFG-FutureIsDark-ZIB-v1-3k:1.0>
 ```
 </details>
 
-### h49s1r0
+### make an image of a new DND race reference sheet na
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/87978cada528fd53dc0f1af1dba41e99.jpeg" width="400" alt="h49s1r0" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/589622d6a011bf3ab786d27723af59ef.jpeg" width="400" alt="make an image of a new DND race reference sheet na" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-h49s1r0, masterpiece, best quality, amazing quality, very aesthetic, absurdres, newest, Kannagi Yuuri,(1girl),breasts,(solo),blonde hair, long hair, large breasts, hair clip,thick thighs, long legs, green eyes, blush,<lora:Bishoujo Mangekyou_illustriousXL:1>,mask, solo,holding, bow, upper body, sky, looking at viewer, jewelry, cloud, holding mask, parted lips, frills,  lips, blue bow, hair ornament, hand up, bracelet, one eye covered, reflection, <lora:Ha9siro:1>
-,seductive pose, horny face,cinematic, naturalskin, softt lighting, volumetric lighting, (masterpiece:1.2), (best quality:1.2), (very aesthetic:1.2), (amazing quality,:1.2), (detailed background),(best illumination),newest, perfect anatomy, illustration,
- <lora:96YOTTEA-WAI:0.3>, <lora:NOOB_vp1_detailer_by_volnovik_v1:0.3>, <lora:ponyv6_noobV1_2_adamW:0.3> <lora:veluflora-wai:0.5>, <lora:XXX477:0.5>, <lora:noobai_ep11_stabilizer_v0.138_fp16:0.3>, <lora:mon_monmon2133:0.3>
+make an image of a new DND race reference sheet named "Axoawaiger" that's a combination of tiger, axolotl and jawa. Include multiple angles, expressions, traits and abilities
 ```
 </details>
 
-### Epic landscape
+### Create a photorealistic image of a breathaking bea
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/abd9afcef165c577a1fb24213aed1168.jpeg" width="400" alt="Epic landscape" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/b861c5606a6d848a75fb018110f0a06c.jpeg" width="400" alt="Create a photorealistic image of a breathaking bea" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-Epic landscape, bright sky, majestic, fantasy land, black rocks, (dark sun light: 1.7), lake, dramatic lighting, digital art, soft yellows, warm reds, green landscape, epiCPhoto, world tree, endless forest, amazing world, ancient world, feeling of time, abyss
+Create a photorealistic image of a breathaking beautifu Thailand Island, surrounded by 2traditional colorful longtailboats decorated with flower garlands and colorful flags, crystall clear turquoise water, vibrant colors, bright colors,highly detailed, aesthetic, great lighting, extremely detailed,  perfect composition, a vibrant tissue of hues and textures captured digitally, best quality, realistic, captivating, intricately detailed, hyper detailed, maximalist style, dynamic lighting, superb composition, finest details, highest aesthetics, best quality, sharp focus, high contrast, stylized, clear, colorful, ultra quality, whimsical, fantastic, splash art, intricate detailed, hyperdetailed, maximalist style, hyper detailed, maximalist style,  concept art, sharp focus, harmony, serenity, calm, mysterious glow, dynamic lighting, superb composition, sharp focus, high contrast, stylized, clear, colorful, ultra quality,  best quality, DB4RZ, DB4RZ style painting, NeoPigma, in the style of cksc, anime, cyberpunk, a masterpiece, award winning, view from above
 ```
 </details>
 
-### (ultra realistic
+### Create a realistic painting style with vibrant col
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/8b6a5affd55d6d03736018e37200eb3e.jpeg" width="400" alt="(ultra realistic" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/0c6206002d68764df2a9b689ca135a6b.jpeg" width="400" alt="Create a realistic painting style with vibrant col" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(ultra realistic,32k,masterpiece:1.4),(high detailed skin:1.1),( high quality:1.1), (ultra high res:1.4), (masterpiece), (beautiful lighting:1.4), (high quality, dynamic angle:1.4), (high resolution:1.3), (incredibly detailed:1.28), cinematic lighting, masterpiece, perfect anatomy, absurdres, Smooth_Quality, thick outline, black outline, thick lineart, western comics style, DISNEY_ANIMATION, cinematic light,
-1girl, large breasts, tight long sleeve shirt, two tone shirt, sleeves rolled up to elbows, forearm tattoo, midriff, mini shorts, fishnets, choker, rings, backpack, backpack straps,
-Dark eyes, looking at viewer, piercings, facial piercings, mommy,
-Seductive, 
-Pokemon, pokemon trainer, pokeballs on belt, holding a poke ball, sitting on tree stump, 
-Pikachu on shoulder, Pikachu on girls shoulder,
-charmander on shoulder, charmander on girls shoulder, 
-Smirk,
-Outside, woods, trail, trees, bushes, 
-Close up, from above, view from above,
+Create a realistic painting style with vibrant colors and intricate details. The famous egyptian pyramid group, situated on the banks of the Nil river, rises at night in a sweeping profile view, its intricate architecture clearly reflected in the tranquil water. A peaceful landscape with the pyramids surrounded by serene waterways. A boat drifts gently in the foreground. Several people sit quietly in the boat, illuminated by warm candlelight. Soft reflections of the boat and figures shimmer on the water's surface. A serene and contemplative mood evokes evening celebrations. A starry night sky with light clouds. Warm lantern light contrasts with the cool night blue. A tranquil atmosphere. A balanced composition with the pyramids at its center. Detailed textures, painterly brushstrokes, calm, cinematic lighting, a sense of stillness and spiritual serenity. award winning, a masterpiece,  CAICO,
 ```
 </details>
 
-### (color theme blue
+### source_cartoon
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/a35a8cf3676790c5b0e60999cda324e5.jpeg" width="400" alt="(color theme blue" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/80a3e38dea02e17b362d7f10698f106b.jpeg" width="400" alt="source_cartoon" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-(color theme blue,:1.5)
-A whimsical soft digital painting, masterpiece, high quality, Oil Painting,
-innocent,
-(A minimalist composition with vast negative space, focusing on emptiness and isolation, zen aesthetic.:1.3) 
-Build a scene focusing on 
-Necromantic spa ruins with soulspring hot tubs bubbling with spirits, decayed luxury, eerie relaxation featuring A liquid crystal palace mimicking the collective mood, shifting colors, opalescent textures . 
-The scene depicts a Fused with molten glass and obsidian from intense heat, smooth shiny surfaces, volcanic aftermath world
-.
-The environment is captured during Midsummer solstice celebration with massive bonfires burning in the snowy Arctic circle, warm fire glow against blue twilight, cultural tradition. 
-. 
-Masterpiece, intricate lines, intriguing atmosphere, sharp magnificent details, delicate features, elaborate details, (2/3 rule composition:0.5), ultra detailed, romantic,
-oil painting,
- <lora:style_of_Greg_Capullo_FLUX_223:1> style of Greg Capullo
-<lora:- Flux1 - vanta_black_V2.0:0.6> vantablack,
-<lora:age_v1:-1>,
-<lora:113_novuschromaFLX_1:0.2> novuschroma,
-<lora:softwhim:1> whimsical,
-<lora:FS_v3:0.4> FS,
-<lora:NixPort_style_for_semi-real_upper_body_portrait:0.3>,, Realistic anime art style, combines anime aesthetics with lifelike details, detailed character designs, intricate backgrounds, immersive storytelling, oil painting art style, rich colors, lush textures, expressive brushwork, blendable layers, dynamic compositions, professional-grade finish, versatile medium, timeless elegance, immersive depth, vibrant hues, intricate detailing, adds depth and dimension, impasto painting art style, thick and textured brushwork, vibrant colors, tactile quality, expressive strokes, dynamic compositions, bold contrasts, dramatic lighting effects, immersive texture, professional-grade finish, adds depth and dimension, creates visual interest
+source_cartoon, 1girl, solo, sophiatt, semi-anthro, aardvark, pink skin, blue eyes, black hair, white headband, blue dress, long dress, blues shoes, dancing, smile. streets, grass, trees, outdoors
 ```
 </details>
 
-### Epic landscape
+### in the style of ck-mgs
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/3ec0d4f495ee45f94323a370926d5bf8.jpeg" width="400" alt="Epic landscape" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/56f048de9349de81b85b1ee54bc82382.jpeg" width="400" alt="in the style of ck-mgs" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-Epic landscape, bright sky, majestic, fantasy land, black rocks, (dark sun light: 1.7), lake, dramatic lighting, digital art, soft yellows, warm reds, green landscape, epiCPhoto, world tree, endless forest, amazing world, ancient world, feeling of time, abyss
+in the style of ck-mgs, nistyle, Special Ink-drawing mode, intricate linework with expressive contrasts, Mh1$AgThS2, A bold inkplash-meets-watercolor wash artwork, expertly painted on rice paper using rich sepia, burnt henna, and ink-black hues.   intricate linework with expressive contrasts, soft lighting with dynamic highlights, Japanese woman sitting in front of a tori gate at the top of a mountain, overlooking wooded hills, landscape, sunset. Impressionistic, ligne claire outlines for clarity and structure, award winning, a masterpiece
 ```
 </details>
 
-### A city on the moon at dawn.
+### Create a highly detailed textured paper collage of
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/0d42f519bad69041a0bc15f2db78361a.jpeg" width="400" alt="A city on the moon at dawn." />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/681c3d3a088e07f1a3c1124d6bac78e8.jpeg" width="400" alt="Create a highly detailed textured paper collage of" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A city on the moon at dawn.
+Create a highly detailed textured paper collage of an Italian coastal village at sunset. The scene is composed of layered, hand-torn paper with visible grain and tactile surfaces. Stone houses with tiled roofs cluster along a gentle shoreline, built from stacked paper panels in warm creams, terracotta, and soft ochres. A winding coastal path and small boats rest near the water s edge, shaped from cut paper with details suggested through layered color. The sea is formed from deep blue and muted turquoise paper sheets, catching warm reflections from the setting sun. The sky glows with layered sunset tones of gold, peach, and soft pink, with the sun rendered as a warm paper disc near the horizon. Cypress trees and distant hills frame the scene as dark paper silhouettes. Calm, inviting, and handcrafted atmosphere, rich paper textures, balanced composition, serene mood, aesthetic, concept art, handcrafted collage realism, best quality, award-winning paper art.
 ```
 </details>
 
-### 1woman
+### A Mordor tourist information office
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/7c6cec1d41107078197d68bccb73e179.jpeg" width="400" alt="1woman" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/84cd78024d52985569d7aa39dcfb1c8b.jpeg" width="400" alt="A Mordor tourist information office" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-1woman, long hair, Brown eyes, lips, mouth, high pointed nose, White hair, wild hair. milf, <lora:sovetsky_soyuz_XL_v1.0:1>, sovetsky_soyuz,  perfect eyes, (colourful:1.3), (detailed face:1.4), (close-up, intense eyes, natural makeup, highly detailed, masterpiece, best quality, hyper detailed, cinematic composition), serious, slightly dissatisfied
-BREAK 
-masterpiece, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, 8k, masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, ultra-HD, cinematic lighting, photorealistic, impressionism (1.5), high detail, depth of field, (blurred background), (dramatic lighting),masterpiece, best quality, very aesthetic, , 8k,,masterpiece, ultra-HD, cinematic lighting, high detail, depth of field, soft reflections, amazing composition,bracelet, gold chains, diamond necklace, hanfu, earrings, diamond rings, hoop earring
+A Mordor tourist information office
 ```
 </details>
 
-### A dark
+### (Masterpiece
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/33eaf23e47c205b5d2396114697e01f4.jpeg" width="400" alt="A dark" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/84b23e7cdf05624d1105505fdf14ac19.mp4" width="400" alt="(Masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-A dark, atmospheric digital painting depicting the suffocating presence of arrogant leadership, symbolized by shadowy figures with distorted, grandiose features, crushing the spirit of a mournful, ethereal female soul. The scene is rendered in a dramatic, high-contrast style reminiscent of ZdzisÅaw BeksiÅski and H.R. Giger, with a limited, desaturated color palette of deep blues, blacks, and ominous reds. The lighting is stark and fragmented, casting long, oppressive shadows that symbolize eternal nightmares and despair.
-,imrt , no_text,photorealistic quality,fine film grain,atmospheric depth,professional cinematography
-lunevacyber
-<lora:detail_slider_Z_V2>
-<lora:ZIT_Luneva CyberHD>
-<lora:ZIT_Midjourney_Luneva_Cinematic_v1_r128>
-```
-</details>
+(Masterpiece, best quality, high-definition, painterly style, serene, nostalgic),
+a 7-second video bringing to life a painterly illustration of a gray tabby kitten and a golden-brown dog sitting side-by-side on a weathered wooden pier gazing out to sea.
 
-### anime screencap
+Scene progression:
 
-**Model:** flux-v1
+0–2 seconds: Still opening shot from behind. The kitten (on a rusty bollard) and the dog (on the planks) are motionless, looking at the sailboat. Gentle turquoise waves lap softly against the pier posts.
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/48c90102588bdc686b5b812f9ff7a7c3.jpeg" width="400" alt="anime screencap" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-anime screencap, anime screenshot, anime coloring, masterpiece, best quality,
- <lora:Yor_ForgerYor_Briar_Spy_x_Family_-_V2_Season_3:1>
-1girl, solo, black hair, red eyes, sidelocks,
-GR33NW0RKUN1F0RM, skirt, green vest,  shirt, white shirt, indoors, sidelocks, white hairband, gold earrings, looking at viewer, smile, cowboy shot
+2–4 seconds: Subtle life emerges. The kitten's tail sways slowly, then it twitches one ear. The dog lets out a soft, content sigh (body visibly relaxing), and its fluffy tail gives a single, gentle wag.
 ```
 </details>
 
@@ -1868,7 +1534,7 @@ GR33NW0RKUN1F0RM, skirt, green vest,  shirt, white shirt, indoors, sidelocks, wh
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/d16d2b71b1dba293fff31d9d2c6d7a57.jpeg" width="400" alt="Anime Style" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d16d2b71b1dba293fff31d9d2c6d7a57.jpeg" width="400" alt="Anime Style" />
 
 <details>
 <summary>View Prompt</summary>
@@ -1879,33 +1545,20 @@ Anime Style,Saori Otokawa,1girl,solo,long hair,blue hair,green eyes,sky,day,outd
 ```
 </details>
 
-### solo
+### masterpiece
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/48b6253a2acea571499df5cb5759f8f0.jpeg" width="400" alt="solo" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/dc026b6f6870fb63ddb354fa9ae9e4c4.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-solo, 1boy, male, cartoon style, 2d, anthro dragon, dark blue background, striped background, yellow sclera, dot eyes, fat, chubby, overweight, dragon tail, white claws, gray horn on nose, lime green skin with deep blue, lime green wings with deep blue, two tone skin, BREAK upper body, looking at viewer, hand behind head, half eyes closed, face close-up, moobs, side angle, dynamic view, open mouth
-```
-</details>
-
-### A vast city of the distant future. Gloomy and beau
-
-**Model:** flux-v1
-
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/1f9718135f1945548d1958b146483467.jpeg" width="400" alt="A vast city of the distant future. Gloomy and beau" />
-
-<details>
-<summary>View Prompt</summary>
-
-```markdown
-A vast city of the distant future. Gloomy and beautiful at the same time. Massive high-rise buildings of glass and concrete rise above wide, multi-level roads and interchanges. Squat and massive buildings of the port infrastructure stretch out over the dark, oily water of a wide river that flows into a shallow sea bay. View from the river surface,
-high res, high detailed, vivid color, sharp focus, sharp lines, anime color, 
-<lora:CPA:1> <lora:Luminous_Shadowscape:0.6> <lora:fluxenhancer:0.75> <lora:FLUX-daubrez-DB4RZ-v2:0.35>
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+dynamic pose, vibrant colors, cinematic position, long hair, asia, chinese, dress, night, water, from side, bird, long sleeves, sky, black hair, building, standing, hair ornament, blue theme, looking at viewer, blue dress, high contrast, backlighting, bokeh, volumetric lighting, cloud, watercraft, blurry background, standing,scenery, glowing butterfly, light smile, horizon, flower, cloudy sky, outstretched arm, barefoot, boat, sidelocks, moon, black eyes, closed mouth, chromatic aberration, blue flower, blurry, ocean, bug, outdoors, crescent moon, hair flower, black background, dark, color connection, sidelighting, bloom, depth of field, white light. detailed eyes, cinematic color grading, dynamic pose, dramatic angle, tilted angle, cinematic lighting, surreal,dramatic lighting,
 ```
 </details>
 
@@ -1913,29 +1566,61 @@ high res, high detailed, vivid color, sharp focus, sharp lines, anime color,
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/bec6ff652b74a2a4385fa26e5840a638.jpeg" width="400" alt="masterpiece" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/1b1626e5a97650c808beb2c7b0e2ccdf.jpeg" width="400" alt="masterpiece" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-masterpiece, best quality, 1girl, solo, kzkk, red hair, spiked hair, flipped hair, short hair, black pants, conductor, frills, gold trim, long sleeves, white shirt, indoors, mansion, contrapposto, legs apart, head tilt, blue eyes, sidelocks, buttons, armchair, window, vase, standing, full body, fisheye, blue sky, looking at viewer, ok sign, hand up, bored, jitome, parted lips
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+aesthetic. Nice vivid colors (in handcuffs, cuffed:1.1), cool, mage, robes, witch hat, brim hat, (staff:1), dark, night, close up, wet, rainy), badass, pose, (bound wrist:0.9), (close-up:1.5), flower, hair flower, black rose, white rose, red rose, butterfly, skull, skeleton, black flower, ,tenebrism,blurry foreground, (skeleton arm) (skeleton hand), from side, wind, floating hair, petals falling, split theme, kissing skull
 ```
 </details>
 
-### The palette is dominated by dark tones. The textur
+### &lt;lora:xmen2011-storm:1&gt; xstromx
 
 **Model:** flux-v1
 
-<img src="https://55c26e04f655177fd0b0cd1be8dfb8b0.r2.cloudflarestorage.com/try-prompt-file/prompts/7485656d62327e3c9ad61f23e8fb5abd.jpeg" width="400" alt="The palette is dominated by dark tones. The textur" />
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/45edee34b61562a15d14904f3b0108cd.jpeg" width="400" alt="&lt;lora:xmen2011-storm:1&gt; xstromx" />
 
 <details>
 <summary>View Prompt</summary>
 
 ```markdown
-The palette is dominated by dark tones. The texture is pronounced, with brushstrokes and traces of paint visible, imitating the process of painting using multi-layered tones. The composition is centered around the figures, and the background flows smoothly in color and tone. The style is abstract, almost sculptural. The style is abstract, almost sculptural. Free, gestural brushstrokes create a sense of movement and action. The muted color palette includes subtle variations in tone. The sense of depth is achieved through different densities of brushstrokes. The light source is diffused, giving the image a slightly cool and mysterious shade. The style of painting is reminiscent of abstract realism and expressionism.  Soft shadows that reflect every detail and add volume to the scene.
+<lora:xmen2011-storm:1> xstromx, white hair, short hair, spiked hair, hair between eyes, brown eyes, lipstick, dark-skinned female,
+```
+</details>
 
-Triss Merigold from The Witcher, young sorceress walking through the gardens of Aretuza after rainfall, warm chestnut auburn hair falling in soft natural waves around her shoulders, clear blue eyes with a gentle thoughtful expression, relaxed yet attentive posture, one hand brushing rain damp leaves along a stone path, wearing a modest teal and brown mage dress with subtle leather accents, practical yet elegant sorceress attire, natural fabric textures, fitted bodice without ornament excess, simple metal pendant at her collarbone, realistic medieval fantasy clothing, grounded witcher universe aesthetic, the garden surrounding her with trimmed hedges, blooming herbs, wet stone reflecting the overcast sky, droplets clinging to foliage, soft atmospheric moisture in the air, diffuse overcast daylight producing gentle natural shadows, cinematic dark fantasy tone, muted earthy color palette, realistic human proportions, natural skin texture with subtle freckles and imperfections, photographic depth of field, shallow focus background, foreground clarity, calm contemplative mood, ultra realistic, highly detailed, film still aesthetic, 35mm cinematic lens look, soft contrast, natural color grading
+### masterpiece
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/d0503650a1ef180336f3107635f2cb01.jpeg" width="400" alt="masterpiece" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+masterpiece, best quality, ultra-detailed, very aesthetic, depth of field, best lighting, detailed illustration, detailed background, beautiful face, beautiful eyes, soft lighting, bloom effect, detailed background, cute girl, eyelashes, foreshortening,
+Aka-Oni, oni, (oni horns), colored skin, (red skin:1.3), smooth horns, black horns, straight horns, mature,
+1girl,solo,beautiful face, perfect eyes, detailed eyes,mature female,
+from behind, holding sword, sword up, hand up, cape, armor, shadow, (Gentle color grading:1.2), (Pastel highlights:1.1), (Windy Atmosphere:1.2), (Cinematic Composition:1.2), (Fine Film Grain Texture:1.0), river, mountains, clouds, sword to sky, reaching forward, outstretched arm,hand forward,cloudy sky,arm up,wind,foggy, smile
+```
+</details>
+
+### digital fantasy oil painting. Cinematic wide-angle
+
+**Model:** flux-v1
+
+<img src="https://b0cf5bcd894a91d79c214d403f3c21ac.r2.cloudflarestorage.com/prompts/f861e84edc803231dca097a341186316.jpeg" width="400" alt="digital fantasy oil painting. Cinematic wide-angle" />
+
+<details>
+<summary>View Prompt</summary>
+
+```markdown
+digital fantasy oil painting. Cinematic wide-angle scene at water level with slight fisheye distortion: a traditional junk cutting through the harbor in the foreground, ornate dragon head and scaled hull sharply detailed, chinese seamen sailing the boat. paddles mid-stroke splashing water, seen against the modern Hong Kong skyline at sunset. Intense chiaroscuro lighting with dramatic sun-rays breaking through clouds, bathing the scene in very strong orange and deep red hues mixed with gold reflections on the water. Skyscrapers silhouetted and rim-lit, windows catching fire-like highlights, vibrant colorful atmosphere. Dynamic composition, powerful contrast, vivid skies, rippling water with reflections, energetic motion, ultra-detailed textures, cinematic realism with a stylized edge, epic and celebratory mood, masterpiece-quality image.
 ```
 </details>
 
